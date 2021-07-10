@@ -1,7 +1,10 @@
 # APURVA BHARGAVA
 
-&nbsp;&nbsp;&nbsp;&nbsp;Marlboro, NJ, 07746 | 201-208-1545 | ab8687@nyu.edu
+&nbsp;&nbsp;&nbsp;&nbsp;Marlboro, NJ, 07746 \| 201-208-1545 \| ab8687@nyu.edu
 
 ## EDUCATION
 
-New York University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; September, 2019 - May, 2021 
+<p>
+  <span style="float: right">Text on the right</span>
+  <span style="float: left">Text on the left</span>
+</p> 
