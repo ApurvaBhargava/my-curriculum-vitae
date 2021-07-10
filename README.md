@@ -1,13 +1,13 @@
 # APURVA BHARGAVA
 
 [Education](#education)\
-[Experience](#experience)
-[Skills, Activities & Interests](#skills-activities--interests)
-[Projects](#projects)
-[Publications](#publications)
-[Certificates](#certificates)
-[Honors and Awards](#honors-and-awards)
-[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)
+[Experience](#experience)\
+[Skills, Activities & Interests](#skills-activities--interests)\
+[Projects](#projects)\
+[Publications](#publications)\
+[Certificates](#certificates)\
+[Honors and Awards](#honors-and-awards)\
+[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)\
 [Volunteer Experience](#volunteer-experience)
 
 
