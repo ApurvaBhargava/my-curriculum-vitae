@@ -19,7 +19,8 @@
 - Large scale acquisition, cleaning, and integration of logistics and operations data from multiple databases.
 - Using statistical modeling/ machine learning for optimizing logistics and operations- predicting the busiest routes, opportunities to consolidate shipments, opportunities to change mode from air to ocean, etc.
 - Building dashboards using Business Intelligence tools for interactive visualizations.
-Department of Environmental Studies, New York University, New York, NY June 2020 – May 2021
+
+**Department of Environmental Studies, New York University, New York, NY** (June 2020 – May 2021)\
 Data Science Research Assistant (project funded by NSF grant)
 - Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
 - Analyzed how subsidies effect farmers' prioritization of adopting environment and wildlife conservation practices in agriculture as a way of studying effect of PES (Payments for Ecosystem Services) at low cost.
