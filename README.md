@@ -35,3 +35,17 @@ Data Science Research Assistant (project funded by NSF grant)
 - Co-instructed the ‘Data Science for Everyone’ course, the flagship course of the Center for Data Science; taught programming sections using Python for ‘Responsible Data Science’ and ‘Introduction to Data Science’ courses. Provided one on one mentoring for assignments, laboratory work and projects. • Created course material using popular data science and ML libraries, AI fairness frameworks, SHAP, etc.
 *Graduate Researcher* (June 2020 – September 2020)
 - Studied neural network architecture and pruning; explored SNIP-technique for pruning convolutional neural networks for more efficient one-shot learning and mask-based multi-task learning using image datasets.
+
+## SKILLS, ACTIVITIES & INTERESTS
+
+## PROJECTS
+
+## PUBLICATIONS
+
+## CERTIFICATES
+
+## HONORS AND AWARDS
+
+## ACHIEVEMENTS (COLLEGIATE EXTRACURRICULARS)
+
+## VOLUNTEER EXPERIENCE
