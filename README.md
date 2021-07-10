@@ -2,7 +2,13 @@
 
 [Education](#education)\
 [Experience](#experience)
-[]()
+[Skills, Activities & Interests](#skills-activities--interests)
+[Projects](#projects)
+[Publications](#publications)
+[Certificates](#certificates)
+[Honors and Awards](#honors-and-awards)
+[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)
+[Volunteer Experience](#volunteer-experience)
 
 
 **New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
