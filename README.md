@@ -45,7 +45,20 @@ Data Science Research Assistant (project funded by NSF grant)
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
+Skills: Python (pytorch, keras, tensorflow, scikit-learn, scipy, statsmodels, matplotlib, seaborn, xgboost, NetworkX), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), MySQL, DBMS, Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, SHAP, LIME, OOP, Java, C++ \
+Activities: Poetry and story writing, Robotics Club, AI Club, Badminton Club, Table Tennis Club
+
 ## PROJECTS
+
+Optimal Representative Training Subset Selection- Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
+Gender Reinflection in Machine Translation - Created a novel user-aware gender reinflection translation model that
+both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-
+Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
+E-commerce: Time series forecasting of online retail sales, and temporal customer segmentation for targeted marketing.
+Semantic Cognition in Dense Convolutional Networks: Simulated and studied the pattern of learning (differentiating)
+and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model.
+Goodreads Book Recommender System- Implemented collaborative-filtering-based recommender system in pySpark
+using user interactions; visualized book clusters to understand recommendation relevance.
 
 ## PUBLICATIONS
 
