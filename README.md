@@ -1,5 +1,8 @@
 # APURVA BHARGAVA
 
+[Education](##EDUCATION)
+[Experience](##EXPERIENCE)
+
 ## EDUCATION
 
 **New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
