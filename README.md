@@ -26,7 +26,7 @@ Data Science Research Assistant (project funded by NSF grant)
 - Uncovered that high variation in demographic factors as well as prominence of certain beliefs contribute to increased net productivity and better environmental practices, using regression analysis and ANOVA.
 - Identified dynamic process of human learning in terms of changes in game choices and game performance as the games progressed using time-series analysis.
 
-**Courant’s Center for Data Science, New York University, New York, NY**/
+**Courant’s Center for Data Science, New York University, New York, NY**\
 *Adjunct Instructor | Graduate Teaching Assistant* (September 2020 – July 2021)
 - Co-instructed the ‘Data Science for Everyone’ course, the flagship course of the Center for Data Science; taught programming sections using Python for ‘Responsible Data Science’ and ‘Introduction to Data Science’ courses. Provided one on one mentoring for assignments, laboratory work and projects. • Created course material using popular data science and ML libraries, AI fairness frameworks, SHAP, etc.
 *Graduate Researcher* (June 2020 – September 2020)
