@@ -23,3 +23,5 @@ Bachelor of Engineering in Computer Science and Engineering
 • Relevant Coursework: Database Systems, Data Mining and Data Warehousing, Artificial Intelligence Systems
 • Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to 3 students in a batch of 180)
 </p>
+
+## EXPERIENCE
