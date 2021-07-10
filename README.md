@@ -1,7 +1,8 @@
 # APURVA BHARGAVA
 
-[Education](##EDUCATION)
-[Experience](##EXPERIENCE)
+Index\
+[Education](#EDUCATION)\
+[Experience](#EXPERIENCE)
 
 ## EDUCATION
 
