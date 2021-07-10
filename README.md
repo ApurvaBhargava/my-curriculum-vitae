@@ -2,8 +2,8 @@
 
 [Education](#education)\
 [Experience](#experience)
+[]()
 
-## EDUCATION
 
 **New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
 *Master of Science in Data Science*
