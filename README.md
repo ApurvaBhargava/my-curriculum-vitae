@@ -2,6 +2,8 @@
 
 ## EDUCATION
 
-<right> shfsksdhkj </right>
+New York University \begin{right}
+Text
+\end{right}
 
 ## EXPERIENCE
