@@ -1,6 +1,5 @@
 # APURVA BHARGAVA
 
-Index\
 [Education](#EDUCATION)\
 [Experience](#EXPERIENCE)
 
