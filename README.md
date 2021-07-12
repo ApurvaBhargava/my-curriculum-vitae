@@ -101,7 +101,7 @@ Data Science Research Assistant (project funded by NSF grant)
 ## HONORS AND AWARDS
 
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association).
-- College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017 for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan awardees from Indian Space Research Organisation.
+- College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Awarded the IBM Data Science Digital Badge.
 
 ## ACHIEVEMENTS (COLLEGIATE EXTRACURRICULARS)
