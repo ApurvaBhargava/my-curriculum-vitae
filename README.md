@@ -70,15 +70,15 @@ Data Science Research Assistant (project funded by NSF grant)
 
 ## PROJECTS
 
-- Optimal Representative Training Subset Selection- Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
-- Gender Reinflection in Machine Translation - Created a novel user-aware gender reinflection translation model that
-both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-
-Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
-- E-commerce: Time series forecasting of online retail sales, and temporal customer segmentation for targeted marketing.
-- Semantic Cognition in Dense Convolutional Networks: Simulated and studied the pattern of learning (differentiating)
-and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model.
-- Goodreads Book Recommender System- Implemented collaborative-filtering-based recommender system in pySpark
-using user interactions; visualized book clusters to understand recommendation relevance.
+- **Semantic Cognition in Dense Convolutional Networks-** Explored the similarity between CNN-based architectures and human biological neural systems by simulating and studying the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model. Explored category typicality and effect of distortion using class ranking correlations.
+- **Optimal Representative Training Subset Selection-** Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
+- **Gender Reinflection in Machine Translation-** Created a novel user-aware gender reinflection translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
+- **Smart e-commerce-** Performed time-series forecasting for online retail sales, temporal customer segmentation for targeted marketing, market-basket analysis, anomaly detection and customer network analysis.
+- **Yelp Fake Review Detection-** Implemented gradient boosting and deep neural networks for detection of fake restaurant reviews with high degree of separability; identified and analyzed features that led to flagging.
+- **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book clusters to understand recommendation relevance.
+- **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysis of the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
+- **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identification of potential regions for installation of Safe Injection Sites; analysis of crime trends across regions; predictions of crime using spatial and temporal features using random forest and xgboost.
+
 
 ## PUBLICATIONS
 
