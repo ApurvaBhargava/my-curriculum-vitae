@@ -82,7 +82,7 @@
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites; analysed crime trends across regions; predicted crime using spatial and temporal features using random forest and xgboost.
 - **Flight Arrival Delay Prediction-** Performed exploratory analysis of the various origin airports, destination airports, carriers, distances and time periods for ascertaining delay factors; estimated delay time using time-series forecasting.
-- **Psychometric Analysis Tool-**: Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
+- **Psychometric Analysis Tool-** Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
 - **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation.
 
 ## PUBLICATIONS
@@ -116,5 +116,5 @@
 
 ## VOLUNTEER WORK
 
-- Sharda Institute of Social Concerns and Research: Part of the initiative to promote literacy and health in rural areas- worked with underpriveleged children and women, taught elementary subjects and discussed the importance of health and hygiene.
-- All World Gayatri Pariwar: Gave tuitions to children of the local underpriveleged families.
+- **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underpriveleged children and women, taught elementary subjects and discussed the importance of health and hygiene.
+- **All World Gayatri Pariwar-** Gave tuitions to children of the local underpriveleged families.
