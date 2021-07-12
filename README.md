@@ -7,7 +7,7 @@
 [Publications](#publications)\
 [Certificates](#certificates)\
 [Honors and Awards](#honors-and-awards)\
-[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)\
+[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)
 
 ## EDUCATION
 
