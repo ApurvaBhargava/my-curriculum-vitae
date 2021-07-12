@@ -8,7 +8,6 @@
 [Certificates](#certificates)\
 [Honors and Awards](#honors-and-awards)\
 [Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)\
-[Volunteer Experience](#volunteer-experience)
 
 ## EDUCATION
 
@@ -24,9 +23,9 @@
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
-*Skills:* Python (pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, opencv, matplotlib, seaborn, xgboost, NetworkX, SHAP, LIME), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), DBMS (MySQL, MongoDB), Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, OOP, Java, C++\
-*Activities:* Robotics Club instructor, AI Club representative, Event Coordinator for Technology Festival, Badminton Club, Table Tennis Club\
-*Interests:* Poetry and story writing, reading, Astronomy, Cognitive Neuroscience
+**Skills:** Python (pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, opencv, matplotlib, seaborn, xgboost, NetworkX, SHAP, LIME), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), DBMS (MySQL, MongoDB), Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, OOP, Java, C++\
+**Activities:** Robotics Club instructor, AI Club representative, Event Coordinator for Technology Festival, Badminton Club, Table Tennis Club\
+**Interests:** Poetry and story writing, reading, Astronomy, Cognitive Neuroscience
 
 ## EXPERIENCE
 **International Flavors & Fragrances, New York, NY** (June 2021 – Present)\
@@ -64,38 +63,48 @@ Data Science Research Assistant (project funded by NSF grant)
 - Explored SNIP-technique for more efficient one-shot learning and creation of masks for multi-task learning.
 - Evaluation on LeNet using MNIST dataset and its variants.
 
-*Summer Research Intern* (May 2018 – July 2018)
+**Malaviya National Institute of Technology, India** (May 2018 – July 2018)\
+*Summer Research Intern*
 - Assisted with data pre-processing, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering news).
 - Worked individually on statistical analysis of single-channel static convolutional neural network models for text categorization using tensorflow.
 
 ## PROJECTS
 
-Optimal Representative Training Subset Selection- Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
-Gender Reinflection in Machine Translation - Created a novel user-aware gender reinflection translation model that
+- Optimal Representative Training Subset Selection- Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
+- Gender Reinflection in Machine Translation - Created a novel user-aware gender reinflection translation model that
 both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-
 Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
-E-commerce: Time series forecasting of online retail sales, and temporal customer segmentation for targeted marketing.
-Semantic Cognition in Dense Convolutional Networks: Simulated and studied the pattern of learning (differentiating)
+- E-commerce: Time series forecasting of online retail sales, and temporal customer segmentation for targeted marketing.
+- Semantic Cognition in Dense Convolutional Networks: Simulated and studied the pattern of learning (differentiating)
 and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model.
-Goodreads Book Recommender System- Implemented collaborative-filtering-based recommender system in pySpark
+- Goodreads Book Recommender System- Implemented collaborative-filtering-based recommender system in pySpark
 using user interactions; visualized book clusters to understand recommendation relevance.
 
 ## PUBLICATIONS
 
+- Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews. Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: Elsevier SSRN.
+
 ## CERTIFICATES
+
+- June, 2020: Sequences, Time Series and Prediction by deeplearning.ai on Coursera
+- June, 2020: Structuring Machine Learning Projects by deeplearning.ai on Coursera
+- July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera
+- March, 2019: Deep Learning by National Research University Higher School of Economics on Coursera
+- March, 2019: Introduction to Big Data by UCSD on Coursera
+- July, 2018: Machine Learning by Stanford University on Coursera
+- May, 2018: Big Data Analytics (HDFS, MapReduce, Spark, MongoDB) FDP with 'Excellent' grade by E&ICT Academy, IIT Guwahati, NIT Warangal, MNIT Jaipur.
 
 ## HONORS AND AWARDS
 
-- Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association).\
+- Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association).
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017 for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan awardees from Indian Space Research Organisation.
+- Awarded the IBM Data Science Digital Badge.
 
 ## ACHIEVEMENTS (COLLEGIATE EXTRACURRICULARS)
 
-- 2018-2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.\
-- 2017-2018: Club Presentation organizer and coordinator in TechVibes'18.\
-- 2017-2018: First place in Tech Zenith (Project Poster Competition) in TechVibes'18.\
-- 2016-2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.\
-- 2015-2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.\
+- 2018-2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.
+- 2017-2018: Club Presentation and Ideate organizer and coordinator in TechVibes'18.
+- 2017-2018: First place in Tech Zenith (Project Poster Competition) in TechVibes'18.
+- 2016-2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.
+- 2015-2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
 - 2015-2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
-
-## VOLUNTEER EXPERIENCE
