@@ -39,7 +39,7 @@
 - Presenting the models to stakeholders for approval. Setting up a baseline as well as a process to measure future improvements.
 
 **Department of Environmental Studies, New York University, New York, NY** (June 2020 – May 2021)\
-Data Science Research Assistant (project funded by NSF grant)
+*Data Science Research Assistant (project funded by NSF grant)*
 - Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
 - Quantified environmental, agricultural and cooperation outcomes from the experiments; verified validity of the experiments by discovering correlations between the in-game and actual beliefs of participants.
 - Analyzed how subsidies effect farmers' prioritization of adopting environment and wildlife conservation practices in agriculture as a way of studying effect of PES (Payments for Ecosystem Services) at low cost.
