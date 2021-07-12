@@ -8,6 +8,7 @@
 [Certificates](#certificates)\
 [Honors and Awards](#honors-and-awards)\
 [Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)
+[Volunteer Work](#volunteer-work)
 
 ## EDUCATION
 
@@ -112,3 +113,8 @@
 - 2016-2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.
 - 2015-2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
 - 2015-2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
+
+## VOLUNTEER WORK
+
+- Sharda Institute of Social Concerns and Research: Part of the initiative to promote literacy and health in rural areas- worked with underpriveleged children and women, taught elementary subjects and discussed the importance of health and hygiene.
+- All World Gayatri Pariwar: Gave tuitions to children of the local underpriveleged families.
