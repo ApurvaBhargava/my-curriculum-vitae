@@ -78,7 +78,8 @@ Data Science Research Assistant (project funded by NSF grant)
 - **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book clusters to understand recommendation relevance.
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysis of the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identification of potential regions for installation of Safe Injection Sites; analysis of crime trends across regions; predictions of crime using spatial and temporal features using random forest and xgboost.
-
+- **Psychometric Analysis Tool-**: Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
+- **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation.
 
 ## PUBLICATIONS
 
