@@ -23,8 +23,10 @@
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
-**Skills:** Python (pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, opencv, matplotlib, seaborn, xgboost, NetworkX, SHAP, LIME), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), DBMS (MySQL, MongoDB), Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, OOP, Java, C++\
-**Activities:** Robotics Club instructor, AI Club representative, Event Coordinator for Technology Festival, Badminton Club, Table Tennis Club\
+**Skills:** Python (pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, opencv, matplotlib, seaborn, xgboost, NetworkX, SHAP, LIME), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), DBMS (MySQL, MongoDB), Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, OOP, Java, C++
+
+**Activities:** Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
+
 **Interests:** Poetry and story writing, reading, Astronomy, Cognitive Neuroscience
 
 ## EXPERIENCE
