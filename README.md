@@ -87,7 +87,7 @@
 
 ## PUBLICATIONS
 
-- Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews. Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
+- **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
 ## CERTIFICATES
 
