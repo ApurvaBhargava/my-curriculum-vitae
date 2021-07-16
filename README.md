@@ -1,6 +1,6 @@
 # APURVA BHARGAVA
 
-[About me](#about-me)
+[About me](#about-me)\
 [Education](#education)\
 [Skills, Activities & Interests](#skills-activities--interests)\
 [Experience](#experience)\
