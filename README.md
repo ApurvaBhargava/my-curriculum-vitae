@@ -13,8 +13,10 @@
 
 ## ABOUT ME
 
-I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world. Beginning from 'predict next number puzzles' in elementary school, I journeyed all the way to predicting patterns in everyday phenomena- natural or human-made, the latter task delegated to my artificial brains.\
-I am a quick learner and have worked on projects in Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Network Analysis and Time-series Forecasting. I am adept at Python, SQL, Machine Learning, Deep Learning and Big Data Technologies. I am currently tackling logistics optimization problems using machine learning at IFF, and actively looking for full-time opportunities.\
+I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world. Beginning from 'predict next number puzzles' in elementary school, I journeyed all the way to predicting patterns in everyday phenomena- natural or human-made, the latter task delegated to my artificial brains.
+
+I am a quick learner and have worked on projects in Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Network Analysis and Time-series Forecasting. I am adept at Python, SQL, Machine Learning, Deep Learning and Big Data Technologies. I am currently tackling logistics optimization problems using machine learning at IFF, and actively looking for full-time opportunities.
+
 I believe in the plasticity of thought process, and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
 ## EDUCATION
