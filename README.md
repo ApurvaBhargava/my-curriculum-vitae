@@ -45,7 +45,7 @@
 - Quantified environmental, agricultural and cooperation outcomes from the experiments; verified validity of the experiments by discovering correlations between the in-game and actual beliefs of participants.
 - Analyzed how subsidies effect farmers' prioritization of adopting environment and wildlife conservation practices in agriculture as a way of studying effect of PES (Payments for Ecosystem Services) at low cost.
 - Uncovered that high variation in demographic factors as well as prominence of certain beliefs (towards community, future generations, environment, government, and punishments) within a group contribute to increased net productivity and better environmental practices, using regression analysis and ANOVA.
-- Identified dynamic process of human learning in terms of changes in game choices and game performance as the games progressed using time-series analysis.
+- Identified dynamic processes in human learning and comprehension in terms of changes in game choices and game performance as the games progressed using time-series analysis.
 
 **Courant’s Center for Data Science, New York University, New York, NY**\
 *Adjunct Instructor* (May 2021 – July 2021)
