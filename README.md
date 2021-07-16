@@ -1,6 +1,6 @@
 # APURVA BHARGAVA
 
-[About me](#about-me)\
+[About](#about)\
 [Education](#education)\
 [Skills, Activities & Interests](#skills-activities--interests)\
 [Experience](#experience)\
@@ -11,7 +11,7 @@
 [Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)\
 [Volunteer Work](#volunteer-work)
 
-## ABOUT ME
+## ABOUT
 
 I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world. Beginning from 'predict next number puzzles' in elementary school, I journeyed all the way to predicting patterns in everyday phenomena- natural or human-made, the latter task delegated to my artificial brains.
 
