@@ -20,7 +20,7 @@
 **Birla Institute of Technology, Mesra, India** (August 2015 – June 2019)\
 *Bachelor of Engineering in Computer Science and Engineering*
 - Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Advanced Engineering Mathematics
-- Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to only 1 student in a batch of 60)
+- Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to only 1 student in the batch)
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
