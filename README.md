@@ -99,7 +99,7 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 ## PUBLICATIONS
 
 - (In process of publishing) **More Informative Training Sets with Fewer Observations using Word Embeddings**
-- (In process of publishing) **Payments don't Reconcile Agriculture and Conservation**
+- (In process of publishing) **Payments Don't Reconcile Agriculture and Conservation**
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
 ## CERTIFICATES
