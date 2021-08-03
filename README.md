@@ -33,7 +33,12 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
-**Skills:** Python (pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, opencv, matplotlib, seaborn, xgboost, NetworkX, SHAP, LIME), Machine Learning, Deep Learning, NLP, Big Data (Hadoop MapReduce, pySpark, Parquet), DBMS (SQL, MongoDB), Network Analysis, Data Visualization (Plotly, Microsoft Power BI), AI fairness frameworks, OOP, Java, C++
+**Skills:**
+*Programming:* Python (pytorch, keras, tensorflow, numPy, pandas, scikit-learn, sciPy, statsmodels, nltk, spacy, openCV, LightGBM, xgboost, NetworkX, SHAP, LIME), OOP, Java, C++\
+*Database Management Systems:* SQL, MongoDB\
+*Big Data:* Hadoop MapReduce, pySpark, Parquet\
+*Data Visualization Tools:* Plotly, Microsoft Power BI, Python (matplotlib, seaborn)\
+*Domains:* Machine Learning, Deep Learning, NLP, Computer Vision, Network Analysis, Fairness in AI
 
 **Activities:** Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
