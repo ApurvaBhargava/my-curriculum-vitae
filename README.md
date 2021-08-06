@@ -48,18 +48,19 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 ## EXPERIENCE
 **International Flavors & Fragrances, New York, NY** (June 2021 – Present)\
 *Data Science Intern*
-- Time-series forecasting quantity and unit prices for all vendors and subsidiaries.
-- Large scale acquisition, cleaning, and integration of logistics and operations data from multiple databases; automating the discovery process of data availability; harmonizing and interpreting the data at different granularity levels.
-- Using statistical modeling/ machine learning for optimizing logistics and operations- predicting the busiest routes, frequencies, opportunities to consolidate shipments, opportunities to change mode from air to ocean, etc.
-- Building dashboards using Business Intelligence tools for interactive visualizations.
-- Presenting the models to stakeholders for approval. Setting up a baseline as well as a process to measure future improvements.
+- Performed large scale acquisition, cleaning, and integration of logistics and operations data from multiple databases; automated the discovery process of data availability; harmonized and interpreted the data at different granularity levels.
+- Used machine learning for optimizing logistics and operations- predicting the busiest routes, opportunities to consolidate shipments, opportunities to change mode from air to ocean, time estimate, frequencies, etc.
+- Forecasted requirements and unit prices for all vendors and subsidiaries using deep time series prediction.
+- Built dashboards for interactive visualizations using Business Intelligence tools.
+- Presented the models to stakeholders for approval. Set up a baseline and a process to measure future improvements.
 
 **Department of Environmental Studies, New York University, New York, NY** (June 2020 – May 2021)\
 *Data Science Research Assistant (project funded by NSF grant)*
 - Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
 - Quantified environmental, agricultural and cooperation outcomes from the experiments; verified validity of the experiments by discovering correlations between the in-game and actual beliefs of participants.
-- Analyzed how subsidies effect farmers' prioritization of adopting environment and wildlife conservation practices in agriculture as a way of studying effect of PES (Payments for Ecosystem Services) at low cost.
-- Uncovered that high variation in demographic factors as well as prominence of certain beliefs (towards community, future generations, environment, government, and punishments) within a group contribute to increased net productivity and better environmental practices, using regression analysis and ANOVA.
+- Studied the effectiveness of PES (Payments for Ecosystem Services) at low cost by modeling farmers’ degree of adoption of environmental conservation practices in agriculture on subsidies and other factors.
+- Predicted agricultural and environmental outcomes using ensemble models (random forest, AdaBoost, XGBoost, LightGBM); explained causative factors using SHAP explanations and visualizations.
+- Uncovered the demographic factors and subjective beliefs (towards community, future generations, environment, government, and punishments) that contribute to increased net productivity and better environmental practices, using regression analysis and ANOVA.
 - Identified dynamic processes in human learning and comprehension in terms of changes in game choices and game performance as the games progressed using time-series analysis.
 
 **Courant’s Center for Data Science, New York University, New York, NY**\
@@ -83,7 +84,7 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 
 **Malaviya National Institute of Technology, India** (May 2018 – July 2018)\
 *Summer Research Intern*
-- Assisted with data pre-processing, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering news).
+- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering news).
 - Worked individually on statistical analysis of single-channel static convolutional neural network models for text categorization using tensorflow.
 
 ## PROJECTS
