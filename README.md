@@ -34,7 +34,7 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 ## SKILLS, ACTIVITIES & INTERESTS
 
 **Skills:**\
-**Domains:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Network Analysis, Fairness in AI, DBMS, OOP\
+**Domains:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Anomaly Detection, Network Analysis, Fairness in AI, DBMS, OOP\
 **Programming Languages:** Python, Java, C++\
 **Machine Learning Libraries (Python):** pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, openCV, LightGBM, xgboost, NetworkX\
 **Database Management Systems:** SQL, MongoDB\
