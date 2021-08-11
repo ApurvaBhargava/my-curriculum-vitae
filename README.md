@@ -36,7 +36,7 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 **Skills:**\
 **Domains:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Network Analysis, Fairness in AI, DBMS, OOP\
 **Programming Languages:** Python, Java, C++\
-**Machine Learning Tools:** Python modules (pytorch, keras, tensorflow, numPy, pandas, scikit-learn, sciPy, statsmodels, nltk, spacy, openCV, LightGBM, xgboost, NetworkX, SHAP, LIME), AWS (Amazon Web Services)\
+**Machine Learning Tools:** Python (pytorch, keras, tensorflow, numPy, pandas, scikit-learn, sciPy, statsmodels, nltk, spacy, openCV, LightGBM, xgboost, NetworkX, SHAP, LIME), AWS (Amazon Web Services)\
 **Database Management Systems:** SQL, MongoDB\
 **Big Data:** Hadoop MapReduce, pySpark, Parquet\
 **Data Visualization Tools:** Plotly, Microsoft Power BI, Python (matplotlib, seaborn)
