@@ -13,9 +13,9 @@
 
 ## ABOUT
 
-I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world. Beginning from 'predict next number puzzles' in elementary school, I journeyed all the way to predicting patterns in everyday phenomena- natural or human-made, the latter task delegated to my artificial brains.
+I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world.
 
-I am a quick learner and have worked on projects in Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Network Analysis and Time-series Forecasting. I am adept at Python, SQL, Machine Learning, Deep Learning and Big Data Technologies. I am currently tackling logistics optimization problems using machine learning at IFF, and actively looking for full-time opportunities.
+I am a quick learner and have worked on projects in Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Anomaly Detection, Network Analysis and Time-series Forecasting. I am adept at Python, SQL, Machine Learning, Deep Learning and Big Data Technologies. I am currently tackling logistics optimization problems using machine learning at IFF and actively looking for full-time opportunities.
 
 I believe in the plasticity of thought process, and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
@@ -96,7 +96,7 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 - **Gender Reinflection in Machine Translation-** Created a novel user-aware gender reinflection translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
 - **Smart e-commerce-** Performed time-series forecasting for online retail sales, anomaly detection, temporal customer segmentation for targeted marketing, customer network analysis and market-basket analysis.
 - **Yelp Fake Review Detection-** Implemented gradient boosting and deep neural networks for detection of fake restaurant reviews with high degree of separability; identified and analyzed features that led to flagging.
-- **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book clusters to understand recommendation relevance.
+- **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book and user clusters to understand recommendation relevance.
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites; analysed crime trends across regions; predicted crime using spatial and temporal features using random forest and xgboost.
 - **Flight Arrival Delay Prediction-** Performed exploratory analysis of the various origin airports, destination airports, carriers, distances and time periods for ascertaining delay factors; estimated delay time using time-series forecasting and regression.
