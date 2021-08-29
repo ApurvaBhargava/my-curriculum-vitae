@@ -52,6 +52,7 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 - Performed acquisition, cleaning, and integration of logistics data from multiple databases, spanning 10M data points.
 - Engineered novel features and built deep learning and graph-ML models in Python for logistics optimization- predicting the busiest routes, estimated times, opportunities to consolidate shipments or change mode from air to ocean, etc.
 - Forecasted requirements and unit prices for over 10,000 materials from 120+ plants using deep time series models.
+- Built linear and tree-based extreme multi-class classification models (2082 classes) in Python for predicting the business division of a material by extracting named-entity recognition (NER)-based and text-based features from its description.
 - Built dashboards for interactive visualizations of models and data at different granularities using Plotly and Power BI.
 - Presented the models to stakeholders for approval. Set up a baseline and a process to measure future improvements.
 
