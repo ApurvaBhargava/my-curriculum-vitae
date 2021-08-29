@@ -35,12 +35,12 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 ## SKILLS, ACTIVITIES & INTERESTS
 
 **Skills:**\
-- Programming Languages: Python, Java, C++ (OOP)
-- Database Management Systems: SQL, MongoDB
-- Machine Learning: PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
-- Big Data and Cloud: Spark MLlib, PySpark, Hadoop, MapReduce, Hive, Parquet, AWS (SageMaker, EMR)
-- Data Visualization: Plotly, Matplotlib, Seaborn, Power BI, Excel
-- Model Interpretation: SHAP, LIME, Hypothesis Testing
+Programming Languages: Python, Java, C++ (OOP)
+Database Management Systems: SQL, MongoDB
+Machine Learning: PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
+Big Data and Cloud: Spark MLlib, PySpark, Hadoop, MapReduce, Hive, Parquet, AWS (SageMaker, EMR)
+Data Visualization: Plotly, Matplotlib, Seaborn, Power BI, Excel
+Model Interpretation: SHAP, LIME, Hypothesis Testing
 
 **Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
@@ -96,16 +96,16 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 
 ## PROJECTS
 
-- **Semantic Cognition in Dense Convolutional Networks-** Explored the similarity between CNN-based architectures and human biological neural systems by simulating and studying the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model. Explored category typicality and effect of distortion using class ranking correlations.
-- **Image Captioning of Fashion Products Images and Self-supervised learning for building taxonomy-** Implemented an architecture with dense-CNN-based encoder and LSTM-based decoder for generating captions for fashion product images; discovered additional categories for products using self-supervised representation learning.
-- **Edge Selective Super Resolution using SinGAN-** Built a function approximator (MLP) over SinGAN to arbitrarily query a low resolution image for real-valued edge co-ordinates to perform super-resolution; this was achieved by substituting the SinGAN generators with autoencoders and feeding the encodings to an MLP to predict pixel outputs from input coordinates.
-- **Optimal Representative Training Subset Selection-** Converted text documents to low-dimensional representations and used statistical distance and sparse coding based-methods for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
-- **Gender Reinflection in Machine Translation-** Created a novel user-aware gender reinflection translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish) for training and evaluation of the MLE and sequence-to-sequence models.
-- **Smart e-commerce-** Performed time-series forecasting for online retail sales, anomaly detection, temporal customer segmentation for targeted marketing, customer network analysis and market-basket analysis.
-- **Yelp Fake Review Detection-** Implemented gradient boosting and deep neural networks for detection of fake restaurant reviews with high degree of separability; identified and analyzed features that led to flagging.
-- **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book and user clusters to understand recommendation relevance.
-- **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
-- **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites; analysed crime trends across regions; predicted crime using spatial and temporal features using random forest and xgboost.
+- **Edge Selective Super Resolution using SinGAN-** Built an MLP function approximator over SinGAN in Python to arbitrarily query a low resolution image for real-valued edge co-ordinates to perform super-resolution; this was achieved by substituting the SinGAN generators with autoencoders and feeding the encodings to an MLP to predict pixel outputs from input coordinates.
+- **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model using PyTorch for implementation; explored category typicality and effect of distortion using class ranking correlations.
+- **Image Captioning of Fashion Products Images and Self-supervised Learning for Building Taxonomy-** Implemented a CNN encoder – transformer decoder architecture in PyTorch for generating captions for fashion products; discovered additional categories for products using self-supervised (contrastive) learning.
+- **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall.
+- **Optimal Representative Training Subset Selection-** Represented text documents in low-dimensional space and implemented statistical distance and sparse-coding-based methods in Python for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
+- **Smart e-commerce-** Performed time-series forecasting for online retail sales, anomaly detection and temporal customer segmentation for targeted marketing using Python; performed customer network graph analysis using NetworkX.
+- **Yelp Fake Review Detection-** Fine-tuned BERT and RoBERTa, implemented gradient boosting and deep neural networks (LSTM, CNN) for detection of fake reviews, achieving 0.88 AUCROC; identified and analyzed features that led to flagging.
+- **Goodreads Books Recommender System-** Built explicit Alternating Least Squares recommender system using PySpark MLlib and 4GB of user-book interactions on high performance cluster, achieving 0.09 NDCG score; visualized clusters of book and user latent factors to infer recommendation relevance.
+- **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle using Python.
+- **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites, analysed crime trends across regions, and predicted crime using spatial and temporal features using Random Forest and XGBoost.
 - **Psychometric Analysis Tool-** Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
 - **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation.
 
