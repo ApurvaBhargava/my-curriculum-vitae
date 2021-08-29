@@ -107,6 +107,7 @@ Model Interpretation: SHAP, LIME, Hypothesis Testing
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle using Python.
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites, analysed crime trends across regions, and predicted crime using spatial and temporal features using Random Forest and XGBoost.
 - **Psychometric Analysis Tool-** Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
+- **Productivity Ladder-** Built an Android application for creating Kanban style productivity task-lists (swiping between To-Do, Doing, Done lists) and setting basic reminders.
 - **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation.
 
 ## PUBLICATIONS
