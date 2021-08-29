@@ -35,12 +35,12 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 ## SKILLS, ACTIVITIES & INTERESTS
 
 **Skills:**\
-Programming Languages: Python, Java, C++ (OOP)
-Database Management Systems: SQL, MongoDB
-Machine Learning: PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
-Big Data and Cloud: Spark MLlib, PySpark, Hadoop, MapReduce, Hive, Parquet, AWS (SageMaker, EMR)
-Data Visualization: Plotly, Matplotlib, Seaborn, Power BI, Excel
-Model Interpretation: SHAP, LIME, Hypothesis Testing
+**Programming Languages:** Python, Java, C++ (OOP)\
+**Database Management Systems:** SQL, MongoDB\
+**Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV\
+**Big Data and Cloud:** Spark MLlib, PySpark, Hadoop, MapReduce, Hive, Parquet, AWS (SageMaker, EMR)\
+**Data Visualization:** Plotly, Matplotlib, Seaborn, Power BI, Excel\
+**Model Interpretation:** SHAP, LIME, Hypothesis Testing
 
 **Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
