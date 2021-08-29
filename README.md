@@ -13,11 +13,11 @@
 
 ## ABOUT
 
-I am a Data Scientist with MS in Data Science from New York University and BE in Computer Science and Engineering from BIT Mesra, India. I am all about finding patterns and decoding the world.
+I am a Data Scientist with 2 years of professional and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
-I am a quick learner and have worked on projects in Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Anomaly Detection, Network Analysis and Time-series Forecasting. I am adept at Python, SQL, Machine Learning, Deep Learning and Big Data Technologies. I am currently tackling logistics optimization problems using machine learning at IFF and actively looking for full-time opportunities.
+I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am currently tackling logistics optimization problems using machine learning at IFF and actively looking for full-time opportunities.
 
-I believe in the plasticity of thought process, and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
+I believe in the plasticity of mindset and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
 ## EDUCATION
 
@@ -28,39 +28,39 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 
 **Birla Institute of Technology, Mesra, India** (August 2015 – June 2019)\
 *Bachelor of Engineering in Computer Science and Engineering*
-- Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Advanced Engineering Mathematics
-- Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to only 1 student in the batch)
+- GPA: 8.81/10.00
+- Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
+- Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to the top student in the batch)
 
 ## SKILLS, ACTIVITIES & INTERESTS
 
 **Skills:**\
-**Domains:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Anomaly Detection, Network Analysis, Fairness in AI, DBMS, OOP\
-**Programming Languages:** Python, Java, C++\
-**Machine Learning Libraries (Python):** pytorch, keras, tensorflow, numpy, pandas, scikit-learn, scipy, statsmodels, nltk, spacy, openCV, LightGBM, xgboost, NetworkX\
-**Database Management Systems:** SQL, MongoDB\
-**Big Data:** Hadoop MapReduce, pySpark, Parquet, AWS (Amazon Web Services)\
-**Data Visualization and Model Interpretation Tools:** Plotly, Microsoft Power BI, matplotlib, seaborn, SHAP, LIME
+- Programming Languages: Python, Java, C++ (OOP)
+- Database Management Systems: SQL, MongoDB
+- Machine Learning: PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
+- Big Data and Cloud: Spark MLlib, PySpark, Hadoop, MapReduce, Hive, Parquet, AWS (SageMaker, EMR)
+- Data Visualization: Plotly, Matplotlib, Seaborn, Power BI, Excel
+- Model Interpretation: SHAP, LIME, Hypothesis Testing
 
-**Activities:** Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
+**Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
 **Interests:** Poetry and story writing, reading, Astronomy, Cognitive Neuroscience
 
 ## EXPERIENCE
 **International Flavors & Fragrances, New York, NY** (June 2021 – Present)\
 *Data Science Intern*
-- Performed large scale acquisition, cleaning, and integration of logistics and operations data from multiple databases; automated the discovery process of data availability; harmonized and interpreted the data at different granularity levels.
-- Used machine learning for optimizing logistics and operations- predicting the busiest routes, opportunities to consolidate shipments, opportunities to change mode from air to ocean, time estimate, frequencies, etc.
-- Forecasted requirements and unit prices for all vendors and subsidiaries using deep time series prediction.
-- Built dashboards for interactive visualizations using Business Intelligence tools.
+- Performed acquisition, cleaning, and integration of logistics data from multiple databases, spanning 10M data points.
+- Engineered novel features and built deep learning and graph-ML models in Python for logistics optimization- predicting the busiest routes, estimated times, opportunities to consolidate shipments or change mode from air to ocean, etc.
+- Forecasted requirements and unit prices for over 10,000 materials from 120+ plants using deep time series models.
+- Built dashboards for interactive visualizations of models and data at different granularities using Plotly and Power BI.
 - Presented the models to stakeholders for approval. Set up a baseline and a process to measure future improvements.
 
 **Department of Environmental Studies, New York University, New York, NY** (June 2020 – May 2021)\
 *Data Science Research Assistant (project funded by NSF grant)*
 - Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
-- Quantified environmental, agricultural and cooperation outcomes from the experiments; verified validity of the experiments by discovering correlations between the in-game and actual beliefs of participants.
-- Studied the effectiveness of PES (Payments for Ecosystem Services) at low cost by modeling farmers’ degree of adoption of environmental conservation practices in agriculture on subsidies and other factors.
-- Predicted agricultural and environmental outcomes using ensemble models (random forest, AdaBoost, XGBoost, LightGBM); explained causative factors using SHAP explanations and visualizations.
-- Uncovered the demographic factors and subjective beliefs (towards community, future generations, environment, government, and punishments) that contribute to increased net productivity and better environmental practices, using regression analysis and ANOVA.
+- Studied the effectiveness of PES (Payments for Ecosystem Services) at a very low cost by modeling agricultural and environmental response on subsidies and subjective factors and then performing regression analysis and ANOVA.
+- Predicted agricultural and environmental outcomes using ensemble models (Random Forest, AdaBoost, XGBoost, LightGBM) with over 92% accuracy in Python; explained causative factors using SHAP explanations and visualizations.
+- Adapted and tuned Transformers-BART for abstractive summarization of PES research papers (utilized NLP, PyTorch).
 - Identified dynamic processes in human learning and comprehension in terms of changes in game choices and game performance as the games progressed using time-series analysis.
 
 **Courant’s Center for Data Science, New York University, New York, NY**\
@@ -69,23 +69,30 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 - Contributed to creating course material (videos and jupyter notebooks) for applied machine learning using Python.
 
 *Graduate Teaching Assistant* (January 2021 – May 2021)
-- Taught laboratory section (bias in machine learning systems, data profiling, data scrubbing, privacy-preserving data synthesis, machine learning model interpretability) using Python for ‘Responsible Data Science’ course.
+- Taught laboratory section (bias in machine learning systems, data profiling, data scrubbing, privacy-preserving data synthesis, machine learning model interpretability) using Python for ‘Responsible Data Science’ course (DS-GA 1017).
 - Actively contributed to creating course material and testing AI fairness and ML model interpretation frameworks (IBM aif360, fairlearn, mlinspect, SHAP, LIME).
 - Provided one on one mentoring for assignments, laboratory work and projects.
 
 *Graduate Teaching Assistant* (September 2020 – December, 2020)
-- Taught laboratory and implementation (numpy, pandas, sklearn, sampling, significance tests, bias/variance, regularization, logistic regression, decision trees, SVMs, neural networks, bagging, gradient boosting, spam detection, image classification) using Python for Introduction to Data Science course.
+- Taught laboratory and implementation (numpy, pandas, sklearn, sampling, significance tests, bias/variance, regularization, logistic regression, decision trees, SVMs, neural networks, bagging, gradient boosting, spam detection, image classification) using Python for 'Introduction to Data Science' course (DS-GA 1001).
 - Provided one on one mentoring for assignments, laboratory work and projects.
 
 *Graduate Researcher* (June 2020 – September 2020)
 - Studied neural network architecture and pruning techniques (creating smaller neural nets from bigger ones) to create smaller, and possibly faster-learning networks.
-- Explored SNIP-technique for more efficient one-shot learning and creation of masks for multi-task learning.
-- Evaluation on LeNet using MNIST dataset and its variants.
+- Explored SNIP-technique for pruning CNN architectures (LeNet, VGG-D, AlexNet) for efficient one-shot learning and mask-based multi-task learning on image datasets using TensorFlow.
 
-**Malaviya National Institute of Technology, India** (May 2018 – July 2018)\
+**Celeste Online Solutions Pvt. Ltd, Jaipur, India** (January 2019 – August 2019)\
+*Data Science Intern, Web Solutions*
+- Optimized funnel/ retention by 27% by building models in Python for top-of-funnel marketing (predicted user response to targeted ads) and middle-of-funnel marketing (segmented users for personalized offers and recommendations).
+- Collected clients’ website usage statistics, identified KPIs and performed A/B testing to evaluate design choices.
+- Built face pose classifier in Spark MLlib for exam proctoring, trained on 3GB data using VGGFace for transfer learning.
+- Detected phishing URLs and malware domains using character-level LSTM networks implemented in Keras.
+
+**Malaviya National Institute of Technology, Jaipur, India** (May 2018 – July 2018)\
 *Summer Research Intern*
-- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering news).
-- Worked individually on statistical analysis of single-channel static convolutional neural network models for text categorization using tensorflow.
+- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering News).
+- Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
+- Datasets used include AG's News, TREC questions and 20newsgroups.
 
 ## PROJECTS
 
@@ -99,14 +106,13 @@ I believe in the plasticity of thought process, and welcome new ideas and perspe
 - **Goodreads Book Recommender System-** Implemented collaborative-filtering-based recommender system in pySpark using user interactions; visualized book and user clusters to understand recommendation relevance.
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle.
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites; analysed crime trends across regions; predicted crime using spatial and temporal features using random forest and xgboost.
-- **Flight Arrival Delay Prediction-** Performed exploratory analysis of the various origin airports, destination airports, carriers, distances and time periods for ascertaining delay factors; estimated delay time using time-series forecasting and regression.
 - **Psychometric Analysis Tool-** Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview.
 - **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation.
 
 ## PUBLICATIONS
 
-- (in process) **More Informative Training Sets with Fewer Observations using Word Embeddings**
-- (in process) **Payments Don't Reconcile Agriculture and Conservation**
+- (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training**
+- (in process) **Payments (for Ecosystem Services) Don't Reconcile Agriculture and Conservation**
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
 ## CERTIFICATES
