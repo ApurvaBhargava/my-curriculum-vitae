@@ -84,7 +84,7 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 
 **Celeste Online Solutions Pvt. Ltd, Jaipur, India** (January 2019 – August 2019)\
 *Data Science Intern, Web Solutions*
-- Optimized funnel/ retention by 27% by building models in Python for top-of-funnel marketing (predicted user response to targeted ads) and middle-of-funnel marketing (segmented users for personalized offers and recommendations).
+- Optimized funnel/ retention by 27% by building models in Python for top-of-funnel marketing (predicted user Lifetime Value and response to targeted ads) and middle-of-funnel marketing (segmented users for personalized offers and recommendations).
 - Collected clients’ website usage statistics, identified KPIs and performed A/B testing to evaluate design choices.
 - Built face pose classifier in Spark MLlib for exam proctoring, trained on 3GB data using VGGFace for transfer learning.
 - Detected phishing URLs and malware domains using character-level LSTM networks implemented in Keras.
