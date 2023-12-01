@@ -2,8 +2,8 @@
 
 [About](#about)\
 [Education](#education)\
-[Skills, Activities & Interests](#skills-activities--interests)\
 [Experience](#experience)\
+[Skills, Activities & Interests](#skills-activities--interests)\
 [Projects](#projects)\
 [Publications](#publications)\
 [Certificates](#certificates)\
