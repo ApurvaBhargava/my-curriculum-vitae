@@ -47,7 +47,16 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 **Interests:** Poetry and story writing, reading, Astronomy, Cognitive Neuroscience
 
 ## EXPERIENCE
-**International Flavors & Fragrances, New York, NY** (June 2021 – Present)\
+
+**Informed Inc., San Francisco Bay Area, CA** (October 2021 – Present)\
+*Machine Learning/ AI Engineer*
+- Built and deployed deep learning models for extracting specific fields from 6 different document types from loan deal jackets, with an extraction rate and F1 score over 90%.
+- Built and deployed anonymization model for detecting PII (Personal Identifiable Information), and replacing it with random text from same entity class with similar font, and automatically blend it in with minimal artifacts.
+- Built and deployed fraudulent paystub detection model with a 3% fraud flagging rate and negligible false positives.
+- Built a model employing LLM (Large Language Model) for extraction of fields from SSI award letter.
+- Successfully executed a POC for sequencing or ordering pages of a document using text in the pages.
+
+**International Flavors & Fragrances, New York, NY** (June 2021 – October 2021)\
 *Data Science Intern*
 - Performed acquisition, cleaning, and integration of logistics data from multiple databases, spanning 10M data points.
 - Engineered novel features and built deep learning and graph-ML models in Python for logistics optimization- predicting the busiest routes, estimated times, opportunities to consolidate shipments or change mode from air to ocean, etc.
@@ -114,7 +123,7 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 ## PUBLICATIONS
 
 - (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training**
-- (in process) **Payments (for Ecosystem Services) Don't Reconcile Agriculture and Conservation**
+- **Financial incentives often fail to reconcile agricultural productivity and pro-conservation behavior.** Communications Earth and Environment (Springer Nature), Feb 8, 2023. Published at: [Nature](https://www.nature.com/articles/s43247-023-00689-6)
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
 ## CERTIFICATES
@@ -129,7 +138,7 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 
 ## HONORS AND AWARDS
 
-- Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association).
+- Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
 
