@@ -108,10 +108,8 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 
 - **Edge Selective Super Resolution using SinGAN-** Built an MLP function approximator over SinGAN in Python to arbitrarily query a low resolution image for real-valued edge co-ordinates to perform super-resolution; this was achieved by substituting the SinGAN generators with autoencoders and feeding the encodings to an MLP to predict pixel outputs from input coordinates.
 - **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model using PyTorch for implementation; explored category typicality and effect of distortion using class ranking correlations.
-- **Image Captioning of Fashion Products Images and Self-supervised Learning for Building Taxonomy-** Implemented a CNN encoder – transformer decoder architecture in PyTorch for generating captions for fashion products; discovered additional categories for products using self-supervised (contrastive) learning.
 - **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall.
 - **Optimal Representative Training Subset Selection-** Represented text documents in low-dimensional space and implemented statistical distance and sparse-coding-based methods in Python for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature.
-- **Smart e-commerce-** Performed time-series forecasting for online retail sales, anomaly detection and temporal customer segmentation for targeted marketing using Python; performed customer network graph analysis using NetworkX.
 - **Yelp Fake Review Detection-** Fine-tuned BERT and RoBERTa, implemented gradient boosting and deep neural networks (LSTM, CNN) for detection of fake reviews, achieving 0.88 AUCROC; identified and analyzed features that led to flagging.
 - **Goodreads Books Recommender System-** Built explicit Alternating Least Squares recommender system using PySpark MLlib and 4GB of user-book interactions on high performance cluster, achieving 0.09 NDCG score; visualized clusters of book and user latent factors to infer recommendation relevance.
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle using Python.
@@ -128,6 +126,8 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 
 ## CERTIFICATES
 
+- July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera
+- July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera
 - June, 2020: Sequences, Time Series and Prediction by deeplearning.ai on Coursera
 - June, 2020: Structuring Machine Learning Projects by deeplearning.ai on Coursera
 - July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera
