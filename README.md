@@ -8,7 +8,7 @@
 [Publications](#publications)\
 [Certificates](#certificates)\
 [Honors and Awards](#honors-and-awards)\
-[Achievements (Collegiate Extracurriculars)](#achievements-collegiate-extracurriculars)\
+[Collegiate Extracurriculars](#collegiate-extracurriculars)\
 [Volunteer Work](#volunteer-work)
 
 ## ABOUT
@@ -133,7 +133,7 @@ I believe in the plasticity of mindset and welcome new ideas and perspectives. S
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
 
-## ACHIEVEMENTS (COLLEGIATE EXTRACURRICULARS)
+## COLLEGIATE EXTRACURRICULARS
 
 - 2018-2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.
 - 2017-2018: Club Presentation and Ideate organizer and coordinator in TechVibes'18.
