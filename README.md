@@ -13,11 +13,11 @@
 
 ## ABOUT
 
-I am a Data Scientist with 2 years of professional and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
+Machine Learning Engineer/ Data Scientist with 3 years of industrial and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
-I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am currently tackling logistics optimization problems using machine learning at IFF and actively looking for full-time opportunities.
+I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am the most excited about general intelligence AI.
 
-I believe in the plasticity of mindset and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
+I believe in the plasticity of mind and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
 ## EDUCATION
 
