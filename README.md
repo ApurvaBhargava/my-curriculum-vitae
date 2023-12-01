@@ -15,7 +15,7 @@
 
 Machine Learning Engineer/ Data Scientist with over 3 years of industrial and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
-I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am the most excited about general intelligence AI.
+I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am the most excited about artificial general intelligence, and would like to be a part of immersive research in the same.
 
 I believe in the plasticity of mind and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
