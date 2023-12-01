@@ -13,7 +13,7 @@
 
 ## ABOUT
 
-Machine Learning Engineer/ Data Scientist with 3 years of industrial and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
+Machine Learning Engineer/ Data Scientist with over 3 years of industrial and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
 I am passionate about translating intelligence from carbon brains to silicon ones and decoding the world. I am a quick learner, curious and highly meticulous. I am the most excited about general intelligence AI.
 
