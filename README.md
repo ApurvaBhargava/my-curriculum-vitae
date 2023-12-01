@@ -126,6 +126,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## CERTIFICATES
 
+- December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera
 - July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera
 - July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera
 - June, 2020: Sequences, Time Series and Prediction by deeplearning.ai on Coursera
