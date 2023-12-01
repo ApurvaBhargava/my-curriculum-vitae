@@ -32,20 +32,6 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
 - Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to the top student in the batch)
 
-## SKILLS, ACTIVITIES & INTERESTS
-
-**Skills:**\
-**Programming Languages:** Python, Ruby, C++\
-**Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV\
-**ML Ops:** AWS frameworks (CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI\
-**Database Management Systems:** SQL, MongoDB\
-**Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet\
-**Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
-
-**Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
-
-**Interests:** Poetry and story writing, playing piano, reading about history, and polity, trade and economics in olden times.
-
 ## EXPERIENCE
 
 **Informed Inc., San Francisco Bay Area, CA** (October 2021 – Present)\
@@ -103,6 +89,20 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering News).
 - Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
+
+## SKILLS, ACTIVITIES & INTERESTS
+
+**Skills:**\
+**Programming Languages:** Python, Ruby, C++\
+**Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV\
+**ML Ops:** AWS frameworks (CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI\
+**Database Management Systems:** SQL, MongoDB\
+**Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet\
+**Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
+
+**Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
+
+**Interests:** Poetry and story writing, playing piano, reading about history, and polity, trade and economics in olden times.
 
 ## PROJECTS
 
