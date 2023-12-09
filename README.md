@@ -51,7 +51,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Built dashboards for interactive visualizations of models and data at different granularities using Plotly and Power BI.
 - Presented the models to stakeholders for approval. Set up a baseline and a process to measure future improvements.
 
-**Department of Environmental Studies, New York University, New York, NY** (June 2020 – May 2021)\
+**Department of Environmental Studies, New York University, New York, NY** (June 2020 – August 2021)\
 *Data Science Research Assistant (project funded by NSF grant)*
 - Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
 - Studied the effectiveness of PES (Payments for Ecosystem Services) at a very low cost by modeling agricultural and environmental response on subsidies and subjective factors and then performing regression analysis and ANOVA.
