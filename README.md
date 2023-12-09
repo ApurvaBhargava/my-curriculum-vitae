@@ -41,6 +41,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Built and deployed fraudulent paystub detection model with a 3% fraud flagging rate and negligible false positives.
 - Built a model employing LLM (Large Language Model) for extraction of fields from SSI award letter.
 - Successfully executed a POC for sequencing or ordering pages of a document using text in the pages.
+- Collaborated on building automated ML pipelines for document extraction and understanding tasks.
 
 **International Flavors & Fragrances, New York, NY** (June 2021 – October 2021)\
 *Data Science Intern*
