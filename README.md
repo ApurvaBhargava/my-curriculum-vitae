@@ -121,7 +121,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## PUBLICATIONS
 
-- (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training**
+- (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training** Report [here](https://github.com/ApurvaBhargava/OptimalSets/blob/master/Project%20Paper.pdf).
 - **Financial incentives often fail to reconcile agricultural productivity and pro-conservation behavior.** Communications Earth and Environment (Springer Nature), Feb 8, 2023. Published at: [Nature](https://www.nature.com/articles/s43247-023-00689-6)
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
