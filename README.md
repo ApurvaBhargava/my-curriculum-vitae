@@ -27,12 +27,14 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 *Master of Science in Data Science*
 - GPA: 3.89/4.00
 - Relevant Coursework: Probability and Statistics, Mathematics for Data Science, Machine Learning, Deep Learning, Big Data, Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Responsible Data Science
+- Activities: Women in Data Science (WiDS) Summer Incubator for AI research
 
 **Birla Institute of Technology, Mesra, India** (August 2015 – June 2019)\
 *Bachelor of Engineering in Computer Science and Engineering*
 - GPA: 8.81/10.00
-- Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
 - Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to the top student in the batch)
+- Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
+- Activities: Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
 ## EXPERIENCE
 
@@ -101,7 +103,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
 
-## SKILLS, ACTIVITIES & INTERESTS
+## SKILLS & INTERESTS
 
 **Skills:**\
 **Programming Languages:** Python, Ruby, C++\
@@ -111,9 +113,11 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet\
 **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
 
-**Activities:** Women in Data Science (WiDS), Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
-
-**Interests:** Poetry and story writing, playing piano, reading about history, and polity, trade and economics in olden times.
+**Interests:**
+- Poetry writing
+- Linguistics (discovering etymology and tracing evolution)
+- Piano and music theory (if you want me to play at your wedding, please reach out to me in another 3 years)
+- Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
 
 ## PROJECTS
 
