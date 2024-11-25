@@ -46,7 +46,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
   - Built and deployed fraudulent paystub detection model with a 5% fraud flagging rate and negligible false positives (this is one of our top revenue generating products).
   - Built and deployed near duplicate detection model for detecting bank statement fraud with 3% fraud flagging rate and negligible false positives.
   - Built graph neural network models utilizing relationships in transaction data for detecting fraudulent bank statements.
-  - Implemented SimHash and MinHash with LSH indexing in vector databases to explore detection of similar documents.
+  - Implemented SimHash with Hamming distance and MinHash with LSH indexing in vector databases to explore detection of similar documents.
 - **Compliance and Optimization**
   - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same entity class with similar font, and automatically blend it in with minimal artifacts.
   - Explored controlled stable diffusion for generating anonymized documents.
