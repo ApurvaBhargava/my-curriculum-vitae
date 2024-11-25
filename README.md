@@ -38,16 +38,16 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 **Informed Inc., San Francisco Bay Area, CA** (October 2021 – Present)\
 *Machine Learning/ AI Engineer*
-- Document Field Extraction
+- **Document Field Extraction**
   - Built and deployed deep learning models for extracting specific fields for 30+ different document types (from loan applications), with an extraction rate and F1 score over 92%.
   - Collaborated on building automated ML pipelines for document extraction.
   - Fine-tuned a large language modeling with reflection tuning and custom loss function for extraction of fields from SSI award letter.
-- Fraud or Income Misrepresentation
+- **Fraud or Income Misrepresentation**
   - Built and deployed fraudulent paystub detection model with a 5% fraud flagging rate and negligible false positives (this is one of our top revenue generating products).
   - Built and deployed near duplicate detection model for detecting bank statement fraud.
   - Built graph neural network models utilizing relationships between transaction types, amounts and dates for detecting fraudulent bank statements.
   - Explored document tampering detection for identifying fraudulent document.
-- Compliance and Optimization
+- **Compliance and Optimization**
   - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same entity class with similar font, and automatically blend it in with minimal artifacts.
   - Explored controlled stable diffusion for generating anonymized documents.
   - Optimized data and model pipelines (on AWS Step Functions and Lambdas), reducing processing time by a factor of 4.
