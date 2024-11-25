@@ -2,3 +2,7 @@ theme: jekyll-theme-slate
 title: Apurva Bhargava
 description: Curriculum Vitae
 css: ["assets/css/style.scss"]
+social:
+  github: "https://github.com/ApurvaBhargava"
+  linkedin: "https://www.linkedin.com/in/apurva-bhargava-1855ab117/"
+  substack: "https://apurvabhargava.substack.com/"
