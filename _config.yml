@@ -1,4 +1,9 @@
 theme: jekyll-theme-slate
 title: Apurva Bhargava
-description: Apurva Bhargava's Curriculum Vitae
+description: Curriculum Vitae
 css: ["assets/css/style.scss"]
+social:
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourusername"
+  twitter: "https://twitter.com/yourusername"
+  instagram: "https://instagram.com/yourusername"
