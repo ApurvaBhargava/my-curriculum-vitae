@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: 💻✒️📄🌟
 description: Apurva Bhargava's CV
-css: ["assets/css/style.css"]
+css:
+  - assets/css/style.css
