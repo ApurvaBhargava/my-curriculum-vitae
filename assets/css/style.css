@@ -1,9 +1,5 @@
-/* Hide only the "View on GitHub" button without affecting the rest of the theme */
-.navbar .view-on-github {
-  display: none !important;
-}
-
-/* If the button is within a different container, try this: */
-.header .navbar .btn.github {
-  display: none !important;
+@import "jekyll-theme-slate";
+/* Hide the "View on GitHub" button */
+a[href*="github.com"] {
+  display: none;
 }
