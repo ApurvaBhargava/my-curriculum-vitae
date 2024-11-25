@@ -1,23 +1,23 @@
 email:
-  id: 'your.name@yoursite.com'
+  id: 'apurvabhargava1762@gmail.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
 linkedin:
-  id: 'your-linkedin-username'
+  id: 'apurva-bhargava-1855ab117'
   href: 'https://www.linkedin.com/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
 
 github:
-  id: 'your-github-name'
+  id: 'ApurvaBhargava'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
 substack:
   id: 'your-substack-name'
-  href: 'https://substack.com/'
+  href: 'https://apurvabhargava.substack.com/'
   title: 'Substack'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-paper-plane-square'
