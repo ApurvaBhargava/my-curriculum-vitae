@@ -1,0 +1,4 @@
+/* Hide the "View on GitHub" button */
+a[href*="github.com"] {
+  display: none;
+}
