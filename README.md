@@ -1,6 +1,6 @@
 ## INDEX
 
-[About](#about)\
+[About Me](#about-me)\
 [Education](#education)\
 [Experience](#experience)\
 [Skills, Activities & Interests](#skills-activities--interests)\
@@ -11,7 +11,7 @@
 [Collegiate Extracurriculars](#collegiate-extracurriculars)\
 [Volunteer Work](#volunteer-work)
 
-## ABOUT
+## ABOUT ME
 
 Machine Learning Engineer/ Data Scientist with over 3 years of industrial and academic research experience, M.S. in Data Science from New York University and B.E. in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
