@@ -51,7 +51,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
   - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same entity class with similar font, and automatically blend it in with minimal artifacts.
   - Explored controlled stable diffusion for generating anonymized documents.
   - Optimized data and model pipelines (on AWS Step Functions and Lambdas), reducing processing time by a factor of 4.
-  - Successfully executed a POC using a Seq2Seq model for sequencing or ordering pages of a document using text in the pages.
+  - Successfully executed a POC using a Seq2Seq model for fast sequencing or ordering pages of a document using text in the pages.
 
 **International Flavors & Fragrances, New York, NY** (June 2021 – October 2021)\
 *Data Science Intern*
