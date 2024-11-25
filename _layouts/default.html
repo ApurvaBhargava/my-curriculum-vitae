@@ -6,7 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+    <style>
+    h3 {
+      display: inline-block; /* Keep all h2 tags in one line */
+      margin-right: 20px;    /* Add spacing between the links */
+    }
+
+    h3 a {
+      text-decoration: none; /* Optional: remove underline from links */
+      color: inherit;        /* Optional: make link color inherit from h2 */
+    }
+    </style>
 
 {% seo %}
     {% include head-custom.html %}
@@ -24,17 +35,10 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.data.social-media %}
-          <div id="social-media">
-              {% assign sm = site.data.social-media %}
-              {% for entry in sm %}
-                  {% assign key = entry | first %}
-                  {% if sm[key].id %}
-                      <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
-                  {% endif %}
-              {% endfor %}
-          </div>
-          {% endif %}
+          <h3 id="link1"><a href="https://example.com/link1">Link 1</a></h3>
+          <h3 id="link2"><a href="https://example.com/link2">Link 2</a></h3>
+          <h3 id="link3"><a href="https://example.com/link3">Link 3</a></h3>
+
 
           {% if site.show_downloads %}
             <section id="downloads">
