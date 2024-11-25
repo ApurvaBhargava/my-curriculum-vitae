@@ -23,6 +23,19 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
+          <!-- Social Media Icons -->
+          <div class="social-icons">
+            {% if site.social.github %}
+              <a href="{{ site.social.github }}" target="_blank" class="fa fa-github"></a>
+            {% endif %}
+            {% if site.social.linkedin %}
+              <a href="{{ site.social.linkedin }}" target="_blank" class="fa fa-linkedin"></a>
+            {% endif %}
+            {% if site.social.substack %}
+              <a href="{{ site.social.substack }}" target="_blank" class="fa fa-paper-plane"></a>  <!-- Example icon for Substack -->
+            {% endif %}
+          </div>
+
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
