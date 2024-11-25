@@ -23,19 +23,17 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          <a href="https://www.facebook.com/your-facebook-username" title="Facebook"><i class="fa fa-facebook-square"></i></a>
-          <!-- Social Media Icons -->
-          <div class="social-icons">
-            {% if site.social.github %}
-              <a href="{{ site.social.github }}" target="_blank" class="fab fa-github"></a>
-            {% endif %}
-            {% if site.social.linkedin %}
-              <a href="{{ site.social.linkedin }}" target="_blank" class="fab fa-linkedin"></a>
-            {% endif %}
-            {% if site.social.substack %}
-              <a href="{{ site.social.substack }}" target="_blank" class="fab fa-paper-plane"></a>  <!-- Example icon for Substack -->
-            {% endif %}
+          {% if site.data.social-media %}
+          <div id="social-media">
+              {% assign sm = site.data.social-media %}
+              {% for entry in sm %}
+                  {% assign key = entry | first %}
+                  {% if sm[key].id %}
+                      <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+                  {% endif %}
+              {% endfor %}
           </div>
+          {% endif %}
 
           {% if site.show_downloads %}
             <section id="downloads">
