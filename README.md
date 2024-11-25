@@ -106,12 +106,12 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 ## SKILLS & INTERESTS
 
 **Skills:**\
-**Programming Languages:** Python, Ruby, C++\
-**Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV\
-**ML Ops:** AWS frameworks (CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI\
-**Database Management Systems:** SQL, MongoDB\
-**Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet\
-**Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
+- **Programming Languages:** Python, Ruby, C++\
+- **Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV\
+- **ML Ops:** AWS frameworks (CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI\
+- **Database Management Systems:** SQL, MongoDB\
+- **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet\
+- **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
 
 **Interests:**
 - Poetry writing
