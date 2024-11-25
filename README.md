@@ -1,4 +1,4 @@
-# APURVA BHARGAVA
+## INDEX
 
 [About](#about)\
 [Education](#education)\
