@@ -11,7 +11,7 @@
 [Collegiate Extracurriculars](#collegiate-extracurriculars)\
 [Volunteer Work](#volunteer-work)
 
-## ABOUT ME
+## 👩‍💻 ABOUT ME
 
 Machine Learning/ AI Engineer with 4 years of professional and academic experience in applying machine learning techniques to real-world problems, Master of Science in Data Science from New York University and Bachelor of Engineering in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
@@ -21,7 +21,7 @@ My research interest is in applying constructs from deep learning, neuroscience,
 
 I believe in the plasticity of mind and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
-## EDUCATION
+## 🎓 EDUCATION
 
 **New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
 *Master of Science in Data Science*
@@ -36,7 +36,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
 - Activities: Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
-## EXPERIENCE
+## 💼 EXPERIENCE
 
 **Informed Inc., San Francisco Bay Area, CA** (October 2021 – Present)\
 *Machine Learning/ AI Engineer*
@@ -103,7 +103,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
 
-## SKILLS & INTERESTS
+## 💡 SKILLS & INTERESTS
 
 **Skills:**
 - **Programming Languages:** Python, Ruby, C++
@@ -119,7 +119,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Piano and music theory (if you want me to play at your wedding, please reach out to me in another 3 years)
 - Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
 
-## PROJECTS
+## 🛠️ PROJECTS
 
 - **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model using PyTorch for implementation; explored category typicality and effect of distortion using class ranking correlations. Report [here](https://github.com/ApurvaBhargava/semantic-cognition-convnets/blob/master/Project%20Paper.pdf).
 - **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall. Report [here](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf).
@@ -133,13 +133,13 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - **Productivity Ladder-** Built an Android application for creating Kanban style productivity task-lists (swiping between To-Do, Doing, Done lists) and setting basic reminders. Application [here](https://github.com/ApurvaBhargava/Productivity-Ladder-Android).
 - **Fuzzy Image Processing Tool-** Built an image processing tool that uses Java’s jFuzzyLogic library and Fuzzy Control Language (FCL). Functionalities implemented using fuzzy logic include grayscale-image contrast enhancement, colour-image contrast enhancement, edge detection and image segmentation. Application [here](https://github.com/ApurvaBhargava/Fuzzy-Image-Processing-Tool).
 
-## PUBLICATIONS
+## 📰 PUBLICATIONS
 
 - (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training** Report [here](https://github.com/ApurvaBhargava/OptimalSets/blob/master/Project%20Paper.pdf).
 - **Financial incentives often fail to reconcile agricultural productivity and pro-conservation behavior.** Communications Earth and Environment (Springer Nature), Feb 8, 2023. Published at: [Nature](https://www.nature.com/articles/s43247-023-00689-6)
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
-## CERTIFICATIONS
+## 📜 CERTIFICATIONS
 
 - April, 2024: Generative Adversarial Networks Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1474b0ac99cf70e15ad0d25b971a4071)
 - December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/certificate/B2VL63PMLMPT)
@@ -153,14 +153,14 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - July, 2018: Machine Learning by Stanford University on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GBQ7XXSE6NHR)
 - May, 2018: Big Data Analytics (HDFS, MapReduce, Spark, MongoDB) FDP with 'Excellent' grade by E&ICT Academy, IIT Guwahati, NIT Warangal, MNIT Jaipur.
 
-## HONORS AND AWARDS
+## 🏆 HONORS AND AWARDS
 
 - Women in Tech: Interview regarding my journey in AI and Fintech at [stAI Informed podcast](https://informediq.com/podcast/ep-13-women-of-informed/).
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
 
-## COLLEGIATE EXTRACURRICULARS
+## 🌟 COLLEGIATE EXTRACURRICULARS
 
 - 2020: NYU AD Hackathon: Built weShare App for helping community in the crisis of COVID-19 pandemic. [Here is the codebase](https://github.com/nyuad-hackathon-2020/weshare). 
 - 2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.
@@ -170,7 +170,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - 2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
 - 2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
 
-## VOLUNTEER WORK
+## 🌍 VOLUNTEER WORK
 
 - **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underpriveleged children and women, taught elementary subjects and discussed the importance of health and hygiene.
 - **All World Gayatri Pariwar-** Gave tuitions to children of the local underpriveleged families.
