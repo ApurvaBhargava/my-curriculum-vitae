@@ -4,7 +4,7 @@
 [Education](#-education)\
 [Experience](#-experience)\
 [Skills & Interests](#-skills--interests)\
-[Projects](#--projects)\
+[Projects](#-projects)\
 [Publications](#-publications)\
 [Certifications](#-certifications)\
 [Honors and Awards](#-honors-and-awards)\
@@ -119,7 +119,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Piano and music theory (if you want me to play at your wedding, please reach out to me in another 3 years)
 - Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
 
-## 🛠️ PROJECTS
+## 🚀 PROJECTS
 
 - **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model using PyTorch for implementation; explored category typicality and effect of distortion using class ranking correlations. Report [here](https://github.com/ApurvaBhargava/semantic-cognition-convnets/blob/master/Project%20Paper.pdf).
 - **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall. Report [here](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf).
