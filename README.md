@@ -1,6 +1,6 @@
 ## INDEX
 
-[About Me](#about-me)\
+[About Me](#👩‍💻-about-me)\
 [Education](#education)\
 [Experience](#experience)\
 [Skills & Interests](#skills--interests)\
