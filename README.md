@@ -1,7 +1,7 @@
 ## INDEX
 
-[About Me](#👩‍💻-about-me)\
-[Education](#🎓-education)\
+[About Me](#-about-me)\
+[Education](#-education)\
 [Experience](#experience)\
 [Skills & Interests](#skills--interests)\
 [Projects](#projects)\
