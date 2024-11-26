@@ -4,7 +4,7 @@
 [Education](#-education)\
 [Experience](#-experience)\
 [Skills & Interests](#-skills--interests)\
-[Projects](#-projects)\
+[Projects](#--projects)\
 [Publications](#-publications)\
 [Certifications](#-certifications)\
 [Honors and Awards](#-honors-and-awards)\
