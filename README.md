@@ -108,7 +108,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 **Skills:**
 - **Programming Languages:** Python, Ruby, C++
 - **Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
-- **ML Ops:** AWS frameworks (CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI
+- **ML Ops:** AWS frameworks (StepFunction, CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI
 - **Database Management Systems:** SQL, MongoDB
 - **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet
 - **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
@@ -139,17 +139,18 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - **Financial incentives often fail to reconcile agricultural productivity and pro-conservation behavior.** Communications Earth and Environment (Springer Nature), Feb 8, 2023. Published at: [Nature](https://www.nature.com/articles/s43247-023-00689-6)
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
-## CERTIFICATES
+## CERTIFICATIONS
 
-- December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera
-- July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera
-- July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera
-- June, 2020: Sequences, Time Series and Prediction by deeplearning.ai on Coursera
-- June, 2020: Structuring Machine Learning Projects by deeplearning.ai on Coursera
-- July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera
-- March, 2019: Deep Learning by National Research University Higher School of Economics on Coursera
-- March, 2019: Introduction to Big Data by UCSD on Coursera
-- July, 2018: Machine Learning by Stanford University on Coursera
+- April, 2024: Generative Adversarial Networks Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1474b0ac99cf70e15ad0d25b971a4071).
+- December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/certificate/B2VL63PMLMPT).
+- July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/HP7A5LFYJHH5).
+- July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/VVUL3ANAE3HT).
+- June, 2020: Deep Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/e1614f2497ff21c26bb941854eef0b22).
+- May, 2020: Machine Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1776ebb9662e39733cba0d623e399fc7).
+- July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/9XJU2FY48XHW).
+- March, 2019: Deep Learning by National Research University Higher School of Economics on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GMTYYTVEBVX8).
+- March, 2019: Introduction to Big Data by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/PS6PCJ55KGFK).
+- July, 2018: Machine Learning by Stanford University on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GBQ7XXSE6NHR).
 - May, 2018: Big Data Analytics (HDFS, MapReduce, Spark, MongoDB) FDP with 'Excellent' grade by E&ICT Academy, IIT Guwahati, NIT Warangal, MNIT Jaipur.
 
 ## HONORS AND AWARDS
