@@ -141,32 +141,34 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## CERTIFICATIONS
 
-- April, 2024: Generative Adversarial Networks Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1474b0ac99cf70e15ad0d25b971a4071).
-- December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/certificate/B2VL63PMLMPT).
-- July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/HP7A5LFYJHH5).
-- July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/VVUL3ANAE3HT).
-- June, 2020: Deep Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/e1614f2497ff21c26bb941854eef0b22).
-- May, 2020: Machine Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1776ebb9662e39733cba0d623e399fc7).
-- July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/9XJU2FY48XHW).
-- March, 2019: Deep Learning by National Research University Higher School of Economics on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GMTYYTVEBVX8).
-- March, 2019: Introduction to Big Data by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/PS6PCJ55KGFK).
-- July, 2018: Machine Learning by Stanford University on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GBQ7XXSE6NHR).
+- April, 2024: Generative Adversarial Networks Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1474b0ac99cf70e15ad0d25b971a4071)
+- December, 2023: Generative AI with Large Language Models by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/certificate/B2VL63PMLMPT)
+- July, 2023: Introduction to Machine Learning in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/HP7A5LFYJHH5)
+- July, 2023: Machine Learning Data Lifecycle in Production (MLOps specialization) by deeplearning.ai on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/VVUL3ANAE3HT)
+- June, 2020: Deep Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/e1614f2497ff21c26bb941854eef0b22)
+- May, 2020: Machine Learning Specialization by deeplearning.ai on Coursera. Certification [here](https://coursera.org/share/1776ebb9662e39733cba0d623e399fc7)
+- July, 2019: Hadoop Platform and Application Framework by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/9XJU2FY48XHW)
+- March, 2019: Deep Learning by National Research University Higher School of Economics on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GMTYYTVEBVX8)
+- March, 2019: Introduction to Big Data by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/PS6PCJ55KGFK)
+- July, 2018: Machine Learning by Stanford University on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GBQ7XXSE6NHR)
 - May, 2018: Big Data Analytics (HDFS, MapReduce, Spark, MongoDB) FDP with 'Excellent' grade by E&ICT Academy, IIT Guwahati, NIT Warangal, MNIT Jaipur.
 
 ## HONORS AND AWARDS
 
+- Women in Tech: Interview regarding my journey in AI and Fintech at [stAI Informed podcast](https://informediq.com/podcast/ep-13-women-of-informed/).
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
 
 ## COLLEGIATE EXTRACURRICULARS
 
-- 2018-2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.
-- 2017-2018: Club Presentation and Ideate organizer and coordinator in TechVibes'18.
-- 2017-2018: First place in Tech Zenith (Project Poster Competition) in TechVibes'18.
-- 2016-2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.
-- 2015-2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
-- 2015-2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
+- 2020: NYU AD Hackathon: Built weShare App for helping community in the crisis of COVID-19 pandemic. [Here is the codebase](https://github.com/nyuad-hackathon-2020/weshare). 
+- 2019: First place in Tech-X (Best Final Year Project Competition) in TechVibes'19.
+- 2018: Club Presentation and Ideate organizer and coordinator in TechVibes'18.
+- 2018: First place in Tech Zenith (Project Poster Competition) in TechVibes'18.
+- 2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.
+- 2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
+- 2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
 
 ## VOLUNTEER WORK
 
