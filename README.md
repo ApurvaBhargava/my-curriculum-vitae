@@ -3,10 +3,10 @@
 [About Me](#about-me)\
 [Education](#education)\
 [Experience](#experience)\
-[Skills, Activities & Interests](#skills-activities--interests)\
+[Skills & Interests](#skills--interests)\
 [Projects](#projects)\
 [Publications](#publications)\
-[Certificates](#certificates)\
+[Certifications](#certifications)\
 [Honors and Awards](#honors-and-awards)\
 [Collegiate Extracurriculars](#collegiate-extracurriculars)\
 [Volunteer Work](#volunteer-work)
