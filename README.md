@@ -34,7 +34,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - GPA: 8.81/10.00
 - Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to the top student in the batch)
 - Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
-- Activities: Robotics Club instructor, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
+- Activities: Robotics Club, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
 
 ## 💼 EXPERIENCE
 
