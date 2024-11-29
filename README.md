@@ -11,7 +11,7 @@
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)
 
-## 👩‍💻 ABOUT ME
+## 👩🏻‍💻 ABOUT ME
 
 Machine Learning/ AI Engineer with 4 years of professional and academic experience in applying machine learning techniques to real-world problems, Master of Science in Data Science from New York University and Bachelor of Engineering in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
 
