@@ -53,7 +53,7 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 - **Compliance and Optimization**
   - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same named-entity class with similar font, and automatically blend it in with minimal artifacts.
   - Currently exploring controlled stable diffusion for generating cleaner anonymized documents.
-  - Optimized data and model pipelines on production (AWS Step Functions and Lambdas), reducing processing time by a factor of 4.
+  - Optimized data and model pipelines on production (AWS Step Functions and Lambdas).
   - Successfully executed a POC using a Seq2Seq model for fast sequencing or ordering pages of a document using text in the pages.
 
 **International Flavors & Fragrances, New York, NY** (June 2021 – October 2021)\
