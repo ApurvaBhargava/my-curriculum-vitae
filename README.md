@@ -20,7 +20,7 @@ I am invested in translating intelligence from carbon brains to silicon ones and
 
 My research interest is in applying constructs from deep learning, neuroscience, linguistics and computational cognitive modeling to natural language understanding and generation. I am driven by the challenge of teaching machines to reason about ambiguity and logic in language, something that even the human brain struggles with at times.
 
-I believe in the plasticity of belief and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
+Since the mind is bigger than the person, I also write poetry and short stories.
 
 ## 🎓 EDUCATION
 
