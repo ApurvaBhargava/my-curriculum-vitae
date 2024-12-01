@@ -3,11 +3,11 @@
 [About Me](#-about-me)\
 [Education](#-education)\
 [Experience](#-experience)\
-[Skills & Interests](#-skills--interests)\
 [Projects](#-projects)\
 [Publications](#-publications)\
 [Certifications](#-certifications)\
 [Honors and Awards](#-honors-and-awards)\
+[Skills & Interests](#-skills--interests)\
 [Other Mentions](#-other-mentions)\
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)
@@ -103,22 +103,6 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
 - Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work.
 
-## 💡 SKILLS & INTERESTS
-
-**Skills:**
-- **Programming Languages:** Python, Ruby, C++
-- **Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
-- **ML Ops:** AWS frameworks (StepFunction, CI/CD Pipeline, CDK, SageMaker, AutoGluon), DynamoDB, GCP VertexAI
-- **Database Management Systems:** SQL, MongoDB
-- **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet
-- **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME
-
-**Interests:**
-- Poetry writing (some of them are available [here](https://apurvabhargava.substack.com/s/poetry))
-- Linguistics (discovering etymology and tracing evolution)
-- Piano and music theory (if you want me to play at your wedding, please reach out to me in another 3 years)
-- Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
-
 ## 🚀 PROJECTS
 
 - **Optimal Representative Training Subset Selection-** Represented text documents in low-dimensional space and implemented statistical distance and sparse-coding-based methods in Python for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature. Report [here](https://github.com/ApurvaBhargava/OptimalSets/blob/master/Project%20Paper.pdf).
@@ -156,6 +140,22 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
+
+## 💡 SKILLS & INTERESTS
+
+**Skills:**
+- **Programming Languages:** Python, Ruby, C++
+- **Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
+- **ML Ops:** AWS frameworks (StepFunction, CI/CD Pipeline, CDK, SageMaker, AutoGluon), DynamoDB, GCP VertexAI
+- **Database Management Systems:** SQL, MongoDB
+- **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet
+- **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME
+
+**Interests:**
+- Poetry writing (some of them are available [here](https://apurvabhargava.substack.com/s/poetry))
+- Linguistics (exploring etymology and tracing evolution of words and grammar)
+- Piano and music theory
+- Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
 
 ## 🌱 OTHER MENTIONS
 
