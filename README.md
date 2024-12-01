@@ -8,6 +8,7 @@
 [Publications](#-publications)\
 [Certifications](#-certifications)\
 [Honors and Awards](#-honors-and-awards)\
+[Other Mentions](#-other-mentions)
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)
 
@@ -19,7 +20,7 @@ I am passionate about translating intelligence from carbon brains to silicon one
 
 My research interest is in applying constructs from deep learning, neuroscience, linguistics and computational cognitive modeling to natural language understanding and generation. I am driven by the challenge of teaching machines to reason about ambiguity and logic in language, something that even the human brain struggles with at times.
 
-I believe in the plasticity of mind and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
+I believe in the plasticity of belief and welcome new ideas and perspectives. Since the mind is bigger than the person, I also write poetry and short stories.
 
 ## 🎓 EDUCATION
 
@@ -34,24 +35,24 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - GPA: 8.81/10.00
 - Won ‘Excellence award for Extraordinary Performance in Academics’ (awarded to the top student in the batch)
 - Relevant Coursework: Database Management Systems, Data Mining and Data Warehousing, Artificial Intelligence and Expert Systems, Soft Computing, Data Structures and Algorithms, Parallel and Distributed Systems, Discrete Mathematical Structures, Advanced Engineering Mathematics
-- Activities: Robotics Club, AI Club representative, Technology festival event coordinator, Badminton Club, Table Tennis Club
+- Activities: Robotics Club, AI Club representative, Technology Festival event coordinator, Badminton Club, Table Tennis Club
 
 ## 💼 EXPERIENCE
 
 **Informed Inc., San Francisco Bay Area, CA** (October 2021 – Present)\
 *Machine Learning/ AI Engineer*
 - **Document Field Extraction**
-  - Built and deployed deep layout language models for extracting specific fields for 30+ different document types (from loan applications), with an extraction rate and F1 score over 92%.
+  - Built and deployed deep layout language models for extracting specific fields for 30+ different document types (from loan applications), with an extraction rate and F1 score upwards of 90%.
   - Collaborated on building automated ML pipelines for document extraction.
-  - Fine-tuned a large language modeling with reflection tuning and custom loss function for extraction of fields from SSI award letter.
+  - Fine-tuned Flan-T5 LLM with reflection tuning and custom loss function for extraction of fields from documents.
 - **Fraud or Income Misrepresentation**
   - Built and deployed fraudulent paystub detection model with a 5% fraud flagging rate and negligible false positives (this is one of our top revenue generating products).
   - Built and deployed near duplicate detection model for detecting bank statement fraud with 3% fraud flagging rate and negligible false positives.
-  - Built graph neural network models utilizing relationships in transaction data for detecting fraudulent bank statements.
+  - Built graph autencoder based model utilizing relationships in transaction data for detecting anomalous (fraudulent) bank statements.
   - Implemented SimHash with Hamming distance and MinHash with LSH indexing in vector databases to explore detection of similar documents.
 - **Compliance and Optimization**
-  - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same entity class with similar font, and automatically blend it in with minimal artifacts.
-  - Explored controlled stable diffusion for generating anonymized documents.
+  - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same named-entity class with similar font, and automatically blend it in with minimal artifacts.
+  - Currently exploring controlled stable diffusion for generating cleaner anonymized documents.
   - Optimized data and model pipelines on production (AWS Step Functions and Lambdas), reducing processing time by a factor of 4.
   - Successfully executed a POC using a Seq2Seq model for fast sequencing or ordering pages of a document using text in the pages.
 
@@ -71,6 +72,7 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 - Predicted agricultural and environmental outcomes using ensemble models (Random Forest, AdaBoost, XGBoost, LightGBM) with over 92% accuracy in Python; explained causative factors using SHAP explanations and visualizations.
 - Adapted and tuned Transformers-BART for abstractive summarization of PES research papers (utilized NLP, PyTorch).
 - Identified dynamic processes in human learning and comprehension in terms of changes in game choices and game performance as the games progressed using time-series analysis.
+- Built an Android application using ODK-X for implementing Nash equilibrium games and collecting gameplay data in the background.
 
 **Courant’s Center for Data Science, New York University, New York, NY**\
 *Adjunct Instructor* (May 2021 – July 2021)
@@ -92,26 +94,25 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 **Celeste Online Solutions Pvt. Ltd, Jaipur, India** (January 2019 – August 2019)\
 *Data Science Intern, Web Solutions*
-- Optimized funnel/ retention by 27% by building models in Python for top-of-funnel marketing (predicted user Lifetime Value and response to targeted ads) and middle-of-funnel marketing (segmented users for personalized offers and recommendations).
-- Collected clients’ website usage statistics, identified KPIs and performed A/B testing to evaluate design choices.
 - Built face pose classifier in Spark MLlib for exam proctoring, trained on 3GB data using VGGFace for transfer learning.
 - Detected phishing URLs and malware domains using character-level LSTM networks implemented in Keras.
+- Collected clients’ website usage statistics, identified KPIs and performed A/B testing to evaluate design choices.
 
 **Malaviya National Institute of Technology, Jaipur, India** (May 2018 – July 2018)\
 *Summer Research Intern*
-- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering News).
 - Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
+- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering News).
 
 ## 💡 SKILLS & INTERESTS
 
 **Skills:**
 - **Programming Languages:** Python, Ruby, C++
 - **Machine Learning:** PyTorch, Keras, TensorFlow, NumPy, Pandas, SciPy, statsmodels, scikit-learn, NetworkX, NLTK, spaCY, OpenCV
-- **ML Ops:** AWS frameworks (StepFunction, CI/CD Pipeline, CDK, SageMaker, AutoGluon), GCP VertexAI
+- **ML Ops:** AWS frameworks (StepFunction, CI/CD Pipeline, CDK, SageMaker, AutoGluon), DynamoDB, GCP VertexAI
 - **Database Management Systems:** SQL, MongoDB
 - **Big Data:** PySpark, Hadoop, MapReduce, Hive, Parquet
-- **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME, Power BI
+- **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME
 
 **Interests:**
 - Poetry writing
@@ -121,12 +122,11 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## 🚀 PROJECTS
 
-- **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model using PyTorch for implementation; explored category typicality and effect of distortion using class ranking correlations. Report [here](https://github.com/ApurvaBhargava/semantic-cognition-convnets/blob/master/Project%20Paper.pdf).
-- **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gender parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall. Report [here](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf).
+- **Semantic Cognition in Dense Convolutional Networks-** Studied the similarity between CNN-based architectures and human biological neural systems by simulating the pattern of learning (differentiating) and forgetting (dementia) with object recognition on CIFAR-100 as the cognitive task and DenseNet-BC as the model; explored category typicality and effect of distortion using class ranking correlations. Report [here](https://github.com/ApurvaBhargava/semantic-cognition-convnets/blob/master/Project%20Paper.pdf).
+- **Gender Reinflection in Machine Translation (English to French and Spanish)-** Created a novel user-aware gender reinflection + translation model that both translates and reinflects the gender as specified; also built two gendered parallel corpora (English-French and English-Spanish); the MLE and sequence-to-sequence GRU models implemented using PyTorch achieved >95% precision and >83% recall. Report [here](https://github.com/ApurvaBhargava/gender-reinflect-nlp-project/blob/master/NLP_Project_Report.pdf).
 - **Optimal Representative Training Subset Selection-** Represented text documents in low-dimensional space and implemented statistical distance and sparse-coding-based methods in Python for selecting the most representative subsets, beating the active learning and topic model-based D-optimal design selection methods from literature. Report [here](https://github.com/ApurvaBhargava/OptimalSets/blob/master/Project%20Paper.pdf).
 - **Edge Selective Super Resolution using SinGAN-** Built an MLP function approximator over SinGAN in Python to arbitrarily query a low resolution image for real-valued edge co-ordinates to perform super-resolution; this was achieved by substituting the SinGAN generators with autoencoders and feeding the encodings to an MLP to predict pixel outputs from input coordinates. Report [here](https://github.com/ApurvaBhargava/SinGAN_MLP_approximator/blob/master/3001ComputerVision%20Report.pdf).
-- **Yelp Fake Review Detection-** Fine-tuned BERT and RoBERTa, implemented gradient boosting and deep neural networks (LSTM, CNN) for detection of fake reviews, achieving 0.88 AUCROC; identified and analyzed features that led to flagging.
-- **Goodreads Books Recommender System-** Built explicit Alternating Least Squares recommender system using PySpark MLlib and 4GB of user-book interactions on high performance cluster, achieving 0.09 NDCG score; visualized clusters of book and user latent factors to infer recommendation relevance.
+- **Goodreads Books Recommender System-** Built explicit Alternating Least Squares recommender system using PySpark MLlib and 4GB of user-book interactions on high performance cluster, achieving 0.09 NDCG score; visualized clusters of book and user latent factors to infer recommendation relevance (Big Data course).
 - **Nutritional labelling of Home Credit Default Risk Automated Decision System-** Analysed the performance, fairness, stability, interpretability and practicality of credit risk-assigning ADS (automated decision system) trained on Home Credit dataset from Kaggle using Python. Presentation [here](https://github.com/ApurvaBhargava/rds-project/blob/master/Home%20Credit%20Default%20Risk%20with%20LightGBM.pdf).
 - **San Francisco’s Opioid Crisis and Effects on Public Safety-** Identified potential regions for installation of Safe Injection Sites, analysed crime trends across regions, and predicted crime using spatial and temporal features using Random Forest and XGBoost. Report [here](https://github.com/ApurvaBhargava/SF-Opioid-Crisis/blob/master/Final%20Report.pdf).
 - **Psychometric Analysis Tool-** Built a tool for interviewers and/or psychologists that powers judgment by determining the interviewee’s psychological characteristics based on the detection and analysis of factors such as facial expressions, speech emotions, the polarity of written opinion or sentiment analysis (by employing CNN and sequential models) and question answering through chat-bot interview. Report [here](https://github.com/ApurvaBhargava/Psychometric-Analysis-Tool/blob/master/Documents/PsychoReport.pdf).
@@ -135,7 +135,6 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## 📰 PUBLICATIONS
 
-- (in process) **Optimal Training Observations Selection for Manual Labeling and Faster Training** Report [here](https://github.com/ApurvaBhargava/OptimalSets/blob/master/Project%20Paper.pdf).
 - **Financial incentives often fail to reconcile agricultural productivity and pro-conservation behavior.** Communications Earth and Environment (Springer Nature), Feb 8, 2023. Published at: [Nature](https://www.nature.com/articles/s43247-023-00689-6)
 - **Grouping of Medicinal Drugs Used for Similar Symptoms by Mining Clusters from Drug Benefits Reviews.** Proceedings of International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM), Amity University, India, February 26-28, 2019. Published at: [Elsevier SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314).
 
@@ -155,10 +154,14 @@ I believe in the plasticity of mind and welcome new ideas and perspectives. Sinc
 
 ## 🏆 HONORS AND AWARDS
 
-- Women in Tech: Interview regarding my journey in AI and Fintech at [stAI Informed podcast](https://informediq.com/podcast/ep-13-women-of-informed/).
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
 - Other credentials: IBM Data Analysis Digital Badge.
+
+## 🌱 OTHER MENTIONS
+
+- Women in Tech: Interview regarding my journey in AI and Fintech at [stAI Informed podcast](https://informediq.com/podcast/ep-13-women-of-informed/).
+- CDS Alumni Spotlight
 
 ## 🌟 COLLEGIATE EXTRACURRICULARS
 
