@@ -8,7 +8,7 @@
 [Publications](#-publications)\
 [Certifications](#-certifications)\
 [Honors and Awards](#-honors-and-awards)\
-[Other Mentions](#-other-mentions)
+[Other Mentions](#-other-mentions)\
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)
 
