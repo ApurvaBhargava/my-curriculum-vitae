@@ -115,7 +115,7 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 - **Data Visualization and Model Interpretation:** Plotly, Matplotlib, Seaborn, SHAP, LIME
 
 **Interests:**
-- Poetry writing
+- Poetry writing (some of them are available [here](https://apurvabhargava.substack.com/s/poetry))
 - Linguistics (discovering etymology and tracing evolution)
 - Piano and music theory (if you want me to play at your wedding, please reach out to me in another 3 years)
 - Reading about history, polity, trade and economics in olden times (recommendations: The Arthashastra by Kautilya, The Ocean of Churn by Sanjeev Saniyal, Hindu Polity by K P Jayaswal)
