@@ -71,7 +71,6 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 - Studied the effectiveness of PES (Payments for Ecosystem Services) at a very low cost by modeling agricultural and environmental response on subsidies and subjective factors and then performing regression analysis and ANOVA.
 - Predicted agricultural and environmental outcomes using ensemble models (Random Forest, AdaBoost, XGBoost, LightGBM) with over 92% accuracy in Python; explained causative factors using SHAP explanations and visualizations.
 - Adapted and tuned Transformers-BART for abstractive summarization of PES research papers (utilized NLP, PyTorch).
-- Identified dynamic processes in human learning and comprehension in terms of changes in game choices and game performance as the games progressed using time-series analysis.
 - Built an Android application using ODK-X for implementing Nash equilibrium games and collecting gameplay data in the background.
 
 **Courant’s Center for Data Science, New York University, New York, NY**\
@@ -89,8 +88,8 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 - Provided one on one mentoring for assignments, laboratory work and projects.
 
 *Graduate Researcher* (June 2020 – September 2020)
-- Studied neural network architecture and pruning techniques (creating smaller neural nets from bigger ones) to create smaller, and possibly faster-learning networks.
-- Explored SNIP-technique for pruning CNN architectures (LeNet, VGG-D, AlexNet) for efficient one-shot learning and mask-based multi-task learning on image datasets using TensorFlow.
+- Explored effectiveness of SNIP-technique for pruning CNN architectures (LeNet, VGG-D, AlexNet) in improving efficiency of one-shot and few-shot learning.
+- Discovered the effectiveness of fine-tuning pruned subnetworks for each task separately in mitigating catastrophic forgetting in multi-task learning. The pruned neurons were masked during fine-tuning.
 
 **Celeste Online Solutions Pvt. Ltd, Jaipur, India** (January 2019 – August 2019)\
 *Data Science Intern, Web Solutions*
