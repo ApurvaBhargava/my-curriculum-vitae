@@ -48,7 +48,7 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 - **Fraud or Income Misrepresentation**
   - Built and deployed fraudulent paystub detection model with a 5% fraud flagging rate and negligible false positives (this is one of our top revenue generating products).
   - Built and deployed near duplicate detection model for detecting bank statement fraud with 3% fraud flagging rate and negligible false positives.
-  - Built graph autencoder based model utilizing relationships in transaction data for detecting anomalous (fraudulent) bank statements.
+  - Built graph autoencoder based model utilizing relationships in transaction data for detecting anomalous (fraudulent) bank statements.
   - Implemented SimHash with Hamming distance and MinHash with LSH indexing in vector databases to explore detection of similar documents.
 - **Compliance and Optimization**
   - Built and deployed anonymization model for detecting PII (Personal Identifiable Information), replacing it with random text from same named-entity class with similar font, and automatically blend it in with minimal artifacts.
@@ -175,5 +175,5 @@ I believe in the plasticity of belief and welcome new ideas and perspectives. Si
 
 ## 🌍 VOLUNTEER WORK
 
-- **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underpriveleged children and women, taught elementary subjects and discussed the importance of health and hygiene.
-- **All World Gayatri Pariwar-** Gave tuitions to children of the local underpriveleged families.
+- **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underprivileged children and women, taught elementary subjects and discussed the importance of health and hygiene.
+- **All World Gayatri Pariwar-** Gave tuitions to children of the local underprivileged families.
