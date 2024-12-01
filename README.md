@@ -101,7 +101,7 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 *Summer Research Intern*
 - Worked individually on single and multi channel static convolutional neural network models and input embeddings for multi-class text categorization and clustering using TensorFlow.
 - Datasets used include AG's News, TREC questions and 20newsgroups.
-- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work (Visual Question Answering and Topic Modeling for Clustering News).
+- Assisted with data preparation, model evaluation, research paper summarization for ongoing PhD-scholar research work.
 
 ## 💡 SKILLS & INTERESTS
 
