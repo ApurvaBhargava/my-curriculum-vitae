@@ -134,12 +134,12 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - March, 2019: Introduction to Big Data by UCSD on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/PS6PCJ55KGFK)
 - July, 2018: Machine Learning by Stanford University on Coursera. Certification [here](https://www.coursera.org/account/accomplishments/verify/GBQ7XXSE6NHR)
 - May, 2018: Big Data Analytics (HDFS, MapReduce, Spark, MongoDB) FDP with 'Excellent' grade by E&ICT Academy, IIT Guwahati, NIT Warangal, MNIT Jaipur.
+- Other credentials: IBM Data Analysis Digital Badge.
 
 ## 🏆 HONORS AND AWARDS
 
 - Won the 'Excellence Award for Extraordinary Performance in Academics' by BITOSA (Birla Institute of Technology Alumni Association). This is awarded to the student at the top of the batch in academics.
 - College Representative at Indian National Academy of Engineering (INAE) Youth Conclave, 2017, for input on national development projects. The panel included several Padma Bhushan and Padma Vibhushan recipients from Indian Space Research Organisation.
-- Other credentials: IBM Data Analysis Digital Badge.
 
 ## 💡 SKILLS & INTERESTS
 
