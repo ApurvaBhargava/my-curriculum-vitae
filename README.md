@@ -63,7 +63,7 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - Forecasted requirements and unit prices for over 10,000 materials from 120+ plants using deep time series models.
 - Built linear and tree-based extreme multi-class classification models (2082 classes) in Python for predicting the business division of a material by extracting named-entity recognition (NER)-based and text-based features from its description.
 - Built dashboards for interactive visualizations of models and data at different granularities using Plotly and Power BI.
-- Presented the models to stakeholders for approval. Set up a baseline and a process to measure future improvements.
+- Presented the models to stakeholders for approval.
 
 **Department of Environmental Studies, New York University, New York, NY** (June 2020 – August 2021)\
 *Data Science Research Assistant (project funded by NSF grant)*
