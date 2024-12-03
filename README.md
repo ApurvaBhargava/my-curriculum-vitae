@@ -67,7 +67,7 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 
 **Department of Environmental Studies, New York University, New York, NY** (June 2020 – August 2021)\
 *Data Science Research Assistant (project funded by NSF grant)*
-- Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
+- Harmonized and combined gameplay and participant survey data from 7 different behavioral studies conducted on-site with farmers in 7 countries as coordination games (based on Nash Equilibrium) where coordinated, environment-friendly decisions lead to higher scores– incentivized by actual money.
 - Studied the effectiveness of PES (Payments for Ecosystem Services) at a very low cost by modeling agricultural and environmental response on subsidies and subjective factors and then performing regression analysis and ANOVA.
 - Predicted agricultural and environmental outcomes using ensemble models (Random Forest, AdaBoost, XGBoost, LightGBM) with over 92% accuracy in Python; explained causative factors using SHAP explanations and visualizations.
 - Adapted and tuned Transformers-BART for abstractive summarization of PES research papers (utilized NLP, PyTorch).
