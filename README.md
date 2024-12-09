@@ -173,14 +173,14 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - 2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
 - 2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
 
+## 🌍 VOLUNTEER WORK
+
+- **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underprivileged children and women, taught elementary subjects and discussed the importance of health and hygiene.
+- **All World Gayatri Pariwar-** Gave tuitions to children of the local underprivileged families.
+
 ## 🔗 IMPORTANT LINKS
 
 - CV website for clickable project links: https://apurvabhargava.github.io/my-curriculum-vitae
 - GitHub website: https://github.com/ApurvaBhargava
 - Substack: https://apurvabhargava.substack.com
 - LinkedIn: https://www.linkedin.com/in/apurva-bhargava-1855ab117/
-
-## 🌍 VOLUNTEER WORK
-
-- **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underprivileged children and women, taught elementary subjects and discussed the importance of health and hygiene.
-- **All World Gayatri Pariwar-** Gave tuitions to children of the local underprivileged families.
