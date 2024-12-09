@@ -11,7 +11,6 @@
 [Other Mentions](#-other-mentions)\
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)\
-[Important Links](#-important-links)
 
 ## 👩🏻‍💻 ABOUT ME
 
@@ -177,10 +176,3 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 
 - **Sharda Institute of Social Concerns and Research-** Part of the initiative to promote literacy and health in rural areas- worked with underprivileged children and women, taught elementary subjects and discussed the importance of health and hygiene.
 - **All World Gayatri Pariwar-** Gave tuitions to children of the local underprivileged families.
-
-## 🔗 IMPORTANT LINKS
-
-- CV website for clickable project links: https://apurvabhargava.github.io/my-curriculum-vitae
-- GitHub website: https://github.com/ApurvaBhargava
-- Substack: https://apurvabhargava.substack.com
-- LinkedIn: https://www.linkedin.com/in/apurva-bhargava-1855ab117/
