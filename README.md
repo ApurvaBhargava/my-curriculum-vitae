@@ -11,6 +11,7 @@
 [Other Mentions](#-other-mentions)\
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
 [Volunteer Work](#-volunteer-work)
+[Important Links](#-important-links)
 
 ## 👩🏻‍💻 ABOUT ME
 
@@ -171,6 +172,13 @@ Since the mind is bigger than the person, I also write poetry and short stories.
 - 2017: Second place in Hell in the Cell (Robotics: Soccer Playing Bot Competition) in TechVibes'17.
 - 2016: First place in Edge Avoider (Path-coder Robot Competition) in TechVibes'16.
 - 2016: Second place in Canyon Rush (Robotic Arm/ Crane Competition) in TechVibes'16.
+
+## 🔗 IMPORTANT LINKS
+
+- CV website for clickable project links: https://apurvabhargava.github.io/my-curriculum-vitae
+- GitHub website: https://github.com/ApurvaBhargava
+- Substack: https://apurvabhargava.substack.com
+- LinkedIn: https://www.linkedin.com/in/apurva-bhargava-1855ab117/
 
 ## 🌍 VOLUNTEER WORK
 
