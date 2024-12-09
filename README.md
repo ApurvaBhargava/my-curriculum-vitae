@@ -10,7 +10,7 @@
 [Skills & Interests](#-skills--interests)\
 [Other Mentions](#-other-mentions)\
 [Collegiate Extracurriculars](#-collegiate-extracurriculars)\
-[Volunteer Work](#-volunteer-work)\
+[Volunteer Work](#-volunteer-work)
 
 ## 👩🏻‍💻 ABOUT ME
 
