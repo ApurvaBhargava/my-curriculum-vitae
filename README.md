@@ -1,27 +1,3 @@
-## INDEX
-
-[About Me](#-about-me)\
-[Education](#-education)\
-[Experience](#-experience)\
-[Projects](#-projects)\
-[Publications](#-publications)\
-[Certifications](#-certifications)\
-[Honors and Awards](#-honors-and-awards)\
-[Skills & Interests](#-skills--interests)\
-[Other Mentions](#-other-mentions)\
-[Collegiate Extracurriculars](#-collegiate-extracurriculars)\
-[Volunteer Work](#-volunteer-work)
-
-## 👩🏻‍💻 ABOUT ME
-
-Machine Learning/ AI Engineer with 4 years of professional and academic experience in applying machine learning techniques to real-world problems, Master of Science in Data Science from New York University and Bachelor of Engineering in Computer Science and Engineering from Birla Institute of Technology, Mesra, India.
-
-I am invested in translating intelligence from carbon brains to silicon ones and decoding the complexities of learning processes. With a strong background in AI and a deep curiosity for how intelligence emerges and evolves, I am eager to be a part of immersive research in artificial general intelligence.
-
-My research interest is in applying constructs from deep learning, neuroscience, linguistics and computational cognitive modeling to natural language understanding and generation. I am driven by the challenge of teaching machines to reason about ambiguity and logic in language, something that even the human brain struggles with at times.
-
-Since the mind is bigger than the person, I also write poetry and short stories.
-
 ## 🎓 EDUCATION
 
 **New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
