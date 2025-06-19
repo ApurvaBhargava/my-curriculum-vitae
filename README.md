@@ -22,7 +22,7 @@ My research interest is in applying constructs from deep learning, neuroscience,
 
 ## 🎓 EDUCATION
 
-**New York University (Courant’s Center for Data Science), New York, NY** (September 2019 – May 2021)\
+**New York University (Center for Data Science), New York, NY** (September 2019 – May 2021)\
 *Master of Science in Data Science*
 - GPA: 3.89/4.00
 - Relevant Coursework: Probability and Statistics, Mathematics for Data Science, Machine Learning, Deep Learning, Big Data, Natural Language Processing, Computer Vision, Computational Cognitive Modeling, Responsible Data Science
@@ -73,7 +73,7 @@ My research interest is in applying constructs from deep learning, neuroscience,
 - Adapted and tuned Transformers-BART for abstractive summarization of PES research papers (utilized NLP, PyTorch).
 - Built an Android application using ODK-X for implementing Nash equilibrium games and collecting gameplay data in the background.
 
-**Courant’s Center for Data Science, New York University, New York, NY**\
+**Center for Data Science, New York University, New York, NY**\
 *Adjunct Instructor* (May 2021 – July 2021)
 - Co-instructed and graded for the Data Science for Everyone course, which is the flagship course of the NYU Center for Data Science, and the first course in the sequences for both the data science major and minor.
 - Contributed to creating course material (videos and jupyter notebooks) for applied machine learning using Python.
