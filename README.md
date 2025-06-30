@@ -160,7 +160,7 @@ My research interest is in applying constructs from deep learning, neuroscience,
 ## 🌱 OTHER MENTIONS
 
 - Women in Tech: Interview regarding my journey in AI and Fintech at [stAI Informed podcast](https://informediq.com/podcast/ep-13-women-of-informed/).
-- CDS Alumni Spotlight: [LinkedIn](https://www.linkedin.com/posts/nyu-center-for-data-science_datascience-machinelearning-alumnispotlight-activity-7281014117304295424-mun8?utm_source=share&utm_medium=member_desktop), [Twitter/X](https://x.com/NYUDataScience/status/1875248829311938598), [Instagram](https://www.instagram.com/p/DEX6PdmPbsZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [Facebook](https://www.facebook.com/nyudatascience/posts/pfbid024ki17smk4BREvoP6KfDcueNbSodB1NjkxdbHwLpsWMHQbyZLZbnBpdnguQB1JorPl)
+- CDS Alumni Spotlight: [NYU Website](https://cds.nyu.edu/alumni-spotlights/) [LinkedIn](https://www.linkedin.com/posts/nyu-center-for-data-science_datascience-machinelearning-alumnispotlight-activity-7281014117304295424-mun8?utm_source=share&utm_medium=member_desktop), [Twitter/X](https://x.com/NYUDataScience/status/1875248829311938598), [Instagram](https://www.instagram.com/p/DEX6PdmPbsZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [Facebook](https://www.facebook.com/nyudatascience/posts/pfbid024ki17smk4BREvoP6KfDcueNbSodB1NjkxdbHwLpsWMHQbyZLZbnBpdnguQB1JorPl)
 
 ## 🌟 COLLEGIATE EXTRACURRICULARS
 
